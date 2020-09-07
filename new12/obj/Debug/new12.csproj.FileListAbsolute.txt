@@ -1,0 +1,10 @@
+C:\Users\。。。\source\repos\new12\bin\Debug\new12.exe.config
+C:\Users\。。。\source\repos\new12\bin\Debug\new12.exe
+C:\Users\。。。\source\repos\new12\bin\Debug\new12.pdb
+C:\Users\。。。\source\repos\new12\obj\Debug\new12.csprojAssemblyReference.cache
+C:\Users\。。。\source\repos\new12\obj\Debug\new12.Form1.resources
+C:\Users\。。。\source\repos\new12\obj\Debug\new12.Properties.Resources.resources
+C:\Users\。。。\source\repos\new12\obj\Debug\new12.csproj.GenerateResource.cache
+C:\Users\。。。\source\repos\new12\obj\Debug\new12.csproj.CoreCompileInputs.cache
+C:\Users\。。。\source\repos\new12\obj\Debug\new12.exe
+C:\Users\。。。\source\repos\new12\obj\Debug\new12.pdb
