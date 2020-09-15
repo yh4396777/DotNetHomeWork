@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "长方形正方形类/1.0.0": {
+        "runtime": {
+          "长方形正方形类.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "长方形正方形类/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

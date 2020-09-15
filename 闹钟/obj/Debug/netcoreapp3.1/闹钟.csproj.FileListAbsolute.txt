@@ -1,0 +1,13 @@
+C:\Users\。。。\source\repos\闹钟\bin\Debug\netcoreapp3.1\闹钟.exe
+C:\Users\。。。\source\repos\闹钟\bin\Debug\netcoreapp3.1\闹钟.deps.json
+C:\Users\。。。\source\repos\闹钟\bin\Debug\netcoreapp3.1\闹钟.runtimeconfig.json
+C:\Users\。。。\source\repos\闹钟\bin\Debug\netcoreapp3.1\闹钟.runtimeconfig.dev.json
+C:\Users\。。。\source\repos\闹钟\bin\Debug\netcoreapp3.1\闹钟.dll
+C:\Users\。。。\source\repos\闹钟\bin\Debug\netcoreapp3.1\闹钟.pdb
+C:\Users\。。。\source\repos\闹钟\obj\Debug\netcoreapp3.1\闹钟.csprojAssemblyReference.cache
+C:\Users\。。。\source\repos\闹钟\obj\Debug\netcoreapp3.1\闹钟.AssemblyInfoInputs.cache
+C:\Users\。。。\source\repos\闹钟\obj\Debug\netcoreapp3.1\闹钟.AssemblyInfo.cs
+C:\Users\。。。\source\repos\闹钟\obj\Debug\netcoreapp3.1\闹钟.csproj.CoreCompileInputs.cache
+C:\Users\。。。\source\repos\闹钟\obj\Debug\netcoreapp3.1\闹钟.dll
+C:\Users\。。。\source\repos\闹钟\obj\Debug\netcoreapp3.1\闹钟.pdb
+C:\Users\。。。\source\repos\闹钟\obj\Debug\netcoreapp3.1\闹钟.genruntimeconfig.cache

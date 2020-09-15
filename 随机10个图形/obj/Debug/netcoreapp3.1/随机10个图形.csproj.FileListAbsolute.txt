@@ -1,0 +1,13 @@
+C:\Users\。。。\source\repos\随机10个图形\obj\Debug\netcoreapp3.1\随机10个图形.csprojAssemblyReference.cache
+C:\Users\。。。\source\repos\随机10个图形\obj\Debug\netcoreapp3.1\随机10个图形.AssemblyInfoInputs.cache
+C:\Users\。。。\source\repos\随机10个图形\obj\Debug\netcoreapp3.1\随机10个图形.AssemblyInfo.cs
+C:\Users\。。。\source\repos\随机10个图形\obj\Debug\netcoreapp3.1\随机10个图形.csproj.CoreCompileInputs.cache
+C:\Users\。。。\source\repos\随机10个图形\bin\Debug\netcoreapp3.1\随机10个图形.exe
+C:\Users\。。。\source\repos\随机10个图形\bin\Debug\netcoreapp3.1\随机10个图形.deps.json
+C:\Users\。。。\source\repos\随机10个图形\bin\Debug\netcoreapp3.1\随机10个图形.runtimeconfig.json
+C:\Users\。。。\source\repos\随机10个图形\bin\Debug\netcoreapp3.1\随机10个图形.runtimeconfig.dev.json
+C:\Users\。。。\source\repos\随机10个图形\bin\Debug\netcoreapp3.1\随机10个图形.dll
+C:\Users\。。。\source\repos\随机10个图形\bin\Debug\netcoreapp3.1\随机10个图形.pdb
+C:\Users\。。。\source\repos\随机10个图形\obj\Debug\netcoreapp3.1\随机10个图形.dll
+C:\Users\。。。\source\repos\随机10个图形\obj\Debug\netcoreapp3.1\随机10个图形.pdb
+C:\Users\。。。\source\repos\随机10个图形\obj\Debug\netcoreapp3.1\随机10个图形.genruntimeconfig.cache

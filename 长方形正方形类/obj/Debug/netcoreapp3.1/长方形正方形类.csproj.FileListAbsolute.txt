@@ -1,0 +1,13 @@
+C:\Users\。。。\source\repos\长方形正方形类\bin\Debug\netcoreapp3.1\长方形正方形类.exe
+C:\Users\。。。\source\repos\长方形正方形类\bin\Debug\netcoreapp3.1\长方形正方形类.deps.json
+C:\Users\。。。\source\repos\长方形正方形类\bin\Debug\netcoreapp3.1\长方形正方形类.runtimeconfig.json
+C:\Users\。。。\source\repos\长方形正方形类\bin\Debug\netcoreapp3.1\长方形正方形类.runtimeconfig.dev.json
+C:\Users\。。。\source\repos\长方形正方形类\bin\Debug\netcoreapp3.1\长方形正方形类.dll
+C:\Users\。。。\source\repos\长方形正方形类\bin\Debug\netcoreapp3.1\长方形正方形类.pdb
+C:\Users\。。。\source\repos\长方形正方形类\obj\Debug\netcoreapp3.1\长方形正方形类.csprojAssemblyReference.cache
+C:\Users\。。。\source\repos\长方形正方形类\obj\Debug\netcoreapp3.1\长方形正方形类.AssemblyInfoInputs.cache
+C:\Users\。。。\source\repos\长方形正方形类\obj\Debug\netcoreapp3.1\长方形正方形类.AssemblyInfo.cs
+C:\Users\。。。\source\repos\长方形正方形类\obj\Debug\netcoreapp3.1\长方形正方形类.csproj.CoreCompileInputs.cache
+C:\Users\。。。\source\repos\长方形正方形类\obj\Debug\netcoreapp3.1\长方形正方形类.dll
+C:\Users\。。。\source\repos\长方形正方形类\obj\Debug\netcoreapp3.1\长方形正方形类.pdb
+C:\Users\。。。\source\repos\长方形正方形类\obj\Debug\netcoreapp3.1\长方形正方形类.genruntimeconfig.cache
