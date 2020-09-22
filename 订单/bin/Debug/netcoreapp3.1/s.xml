@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfOrderdetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <orderdetails>
+    <ordernumber>001</ordernumber>
+    <buyname>Tom</buyname>
+    <cost>21.2</cost>
+  </orderdetails>
+  <orderdetails>
+    <ordernumber>002</ordernumber>
+    <buyname>table</buyname>
+    <cost>9.98</cost>
+  </orderdetails>
+</ArrayOfOrderdetails>

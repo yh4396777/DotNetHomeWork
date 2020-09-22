@@ -1,0 +1,13 @@
+C:\Users\。。。\source\repos\订单\bin\Debug\netcoreapp3.1\订单.exe
+C:\Users\。。。\source\repos\订单\obj\Debug\netcoreapp3.1\订单.csprojAssemblyReference.cache
+C:\Users\。。。\source\repos\订单\obj\Debug\netcoreapp3.1\订单.AssemblyInfoInputs.cache
+C:\Users\。。。\source\repos\订单\obj\Debug\netcoreapp3.1\订单.AssemblyInfo.cs
+C:\Users\。。。\source\repos\订单\bin\Debug\netcoreapp3.1\订单.deps.json
+C:\Users\。。。\source\repos\订单\bin\Debug\netcoreapp3.1\订单.runtimeconfig.json
+C:\Users\。。。\source\repos\订单\bin\Debug\netcoreapp3.1\订单.runtimeconfig.dev.json
+C:\Users\。。。\source\repos\订单\bin\Debug\netcoreapp3.1\订单.dll
+C:\Users\。。。\source\repos\订单\bin\Debug\netcoreapp3.1\订单.pdb
+C:\Users\。。。\source\repos\订单\obj\Debug\netcoreapp3.1\订单.csproj.CoreCompileInputs.cache
+C:\Users\。。。\source\repos\订单\obj\Debug\netcoreapp3.1\订单.dll
+C:\Users\。。。\source\repos\订单\obj\Debug\netcoreapp3.1\订单.pdb
+C:\Users\。。。\source\repos\订单\obj\Debug\netcoreapp3.1\订单.genruntimeconfig.cache
