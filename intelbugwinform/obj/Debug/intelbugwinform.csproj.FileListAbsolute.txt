@@ -1,0 +1,10 @@
+C:\Users\。。。\source\repos\intelbugwinform\obj\Debug\intelbugwinform.csprojAssemblyReference.cache
+C:\Users\。。。\source\repos\intelbugwinform\obj\Debug\intelbugwinform.Form1.resources
+C:\Users\。。。\source\repos\intelbugwinform\obj\Debug\intelbugwinform.Properties.Resources.resources
+C:\Users\。。。\source\repos\intelbugwinform\obj\Debug\intelbugwinform.csproj.GenerateResource.cache
+C:\Users\。。。\source\repos\intelbugwinform\obj\Debug\intelbugwinform.csproj.CoreCompileInputs.cache
+C:\Users\。。。\source\repos\intelbugwinform\bin\Debug\intelbugwinform.exe.config
+C:\Users\。。。\source\repos\intelbugwinform\bin\Debug\intelbugwinform.exe
+C:\Users\。。。\source\repos\intelbugwinform\bin\Debug\intelbugwinform.pdb
+C:\Users\。。。\source\repos\intelbugwinform\obj\Debug\intelbugwinform.exe
+C:\Users\。。。\source\repos\intelbugwinform\obj\Debug\intelbugwinform.pdb

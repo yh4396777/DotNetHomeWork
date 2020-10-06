@@ -1,0 +1,3823 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="mobile-agent" content="format=html5; url= https://m.chinaz.com/">
+<meta name="mobile-agent" content="format=wml;url= https://m.chinaz.com/">
+<meta name="mobile-agent" content="format=xhtml;url= https://m.chinaz.com/">
+<link rel="alternate" media="only screen and(max-width:640px)" href="https://m.chinaz.com/">
+<title>站长之家 - 站长资讯-我们致力于为中文网站提供动力！</title>
+<meta name="keywords" content="站长,站长之家,站长资讯,创业者,产品经理,网站运营,网络赚钱,电子商务,站长网,站长工具,中国站长站">
+<meta name="description" content="站长之家(中国站长站)为个人站长与企业网络提供全面的站长资讯、源代码程序下载、海量建站素材、强大的搜索优化辅助工具、网络产品设计与运营理念以及一站式网络解决方案，十年来我们一直致力为中文网站提供动力。">
+<meta name="applicable-device" content="pc">
+<meta name="renderer" content="webkit">
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta name="referrer" content="always">
+<link rel="shortcut icon" type="image/ico" href="//img.chinaz.com/2020/img/favicon.ico">
+<link rel="stylesheet" type="text/css" href="//img.chinaz.com/2020/css/home.min.css?1597038512" />
+<link rel="alternate" type="application/rss+xml" title="站长之家RSS订阅" href="http://app.chinaz.com/?app=rss&controller=index&action=index">
+<script type="text/javascript" src="//img.chinaz.com/2020/js/ads.min.js"></script>
+<script type="text/javascript" src="//cbjs.baidu.com/js/m.js"></script>
+<script type='text/javascript'>
+		var url = window.location;
+		if(/Android|iPhone|Windows Phone|webOS|iPod|BlackBerry/i.test(navigator.userAgent)){
+			window.location.href= url.toString().replace('www', "m"); ; 
+		}
+</script>
+ 
+</head>
+
+<body>
+	<div id="cz">
+		<div class="sub-navbar">
+	<div class="flex-container">
+
+		<div class="nav-notice easing" id="breakingnews">
+
+			<div class="bn-title"><i class="iconfont icon-laba"></i></div>
+
+			<ul class="nav-notice__scroll">
+				
+
+<li><a href="http://mt.chinaz.com/vip.aspx?id=ism"  rel="nofollow noopener noreferrer" title="低成本 站长之家传媒帮你轻松搞定软文推广" target="_blank">低成本 站长之家传媒帮你轻松搞定软文推广</a></li>		
+
+<li><a href="https://www.font.cn"  rel="nofollow noopener noreferrer" title="字体超市--好字体用得起，买得起！" target="_blank">字体超市--好字体用得起，买得起！</a></li>		
+
+<li><a href="https://www.chinaz.com/2020/0811/1169681.shtml"  rel="nofollow noopener noreferrer" title="共建未成年人“清朗”网络空间承诺书" target="_blank">共建未成年人“清朗”网络空间承诺书</a></li>		
+	
+
+<!--# 新版首页-2020 全站公告 #-->
+			</ul>
+			<div class="bn-arrows"><span class="bn-arrows-left"></span><span class="bn-arrows-right"></span>
+			</div>
+
+		</div>
+
+		<ul class="nav-list">
+			<li>
+				<a class="nav-item__link" href="https://www.chinaz.com/">站长之家</a>
+			</li>
+			<li>
+				<a class="nav-item__link" rel="noopener noreferrer" target="_blank" href="http://tool.chinaz.com/">站长工具<i
+						class="iconfont icon-xiangxia is-rotate"></i></a>
+
+				<div class="nav-item__bd cz-tool">
+
+					<div class="nav-dropdown">
+
+						<a href="http://alexa.chinaz.com/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--blue
+	 nav-dropdown__link--popular ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+
+								<i class="iconfont icon-alexapaimingchaxun-"></i>
+
+							</div>
+							<span class="nav-dropdown__label">
+								Alexa排名查询
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">根据 Alexa 排名统计数据估算网站 IP、PV 值.</span>
+						</a>
+						<a href="http://rank.chinaz.com/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--purple
+	 nav-dropdown__link--popular active ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+
+								<i class="iconfont icon-baiduquanzhong-"></i>
+
+							</div>
+							<span class="nav-dropdown__label">
+								百度权重查询
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">根据关键词指数与排名估算网站的百度流量</span>
+						</a>
+						<a href="http://seo.chinaz.com/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--pink
+	 nav-dropdown__link--popular ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-seozonghechaxun-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								SEO综合查询
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">查询网站在各大搜索引擎上的SEO数据</span>
+						</a>
+						<a href="http://link.chinaz.com/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--red ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-youqinglianjiechaxun-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								友情链接查询
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">查询网站的友情链接数据及识别对方是否骗链</span>
+						</a>
+						<a href="http://whois.chinaz.com/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--orange ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-whoisxinxichaxunchaxun-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								Whois信息查询
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">查询域名的详细whois信息及验证域名是否过期</span>
+						</a>
+						<a href="http://icp.chinaz.com/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--yellow ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-wangzhanchaxunbeian-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								网站备案查询
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">查询网站的ICP备案、网安备案及备案历史记录</span>
+						</a>
+						<a href="http://api.chinaz.com/" class="nav-dropdown__link nav-dropdown__link--green"
+							rel="noopener noreferrer" target="_blank">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-zhanchangapijiekou-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								站长API接口
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">提供专业稳定的网站数据查询接口服务</span>
+						</a>
+
+					</div>
+
+				</div>
+			</li>
+			<!--<li>
+					<a class="nav-item__link" rel="noopener noreferrer" target="_blank" href="http://mt.chinaz.com/">站长传媒</a>
+				</li>-->
+			<li>
+				<a class="nav-item__link" rel="noopener noreferrer" target="_blank" href="http://sc.chinaz.com/">站长素材<i
+						class="iconfont icon-xiangxia is-rotate"></i></a>
+				<div class="nav-item__bd cz-sc">
+
+					<div class="nav-dropdown">
+
+						<a href="http://font.chinaz.com/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--blue
+	 nav-dropdown__link--popular ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-zitixiazai-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								字体下载
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">分享PS字体、免费字体、商业字体库</span>
+						</a>
+						<a href="http://sc.chinaz.com/jianli/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--purple
+	 nav-dropdown__link--popular active ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-jianlimoban-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								简历模板
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">提供各类个人简历模板下载，包括中英文简历.</span>
+						</a>
+						<a href="http://sc.chinaz.com/tupian/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--pink
+	 nav-dropdown__link--popular ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-gaoqingtupian-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								高清图片
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">提供高清图片下载，包括背景图片、欧美图片等</span>
+						</a>
+						<a href="http://sc.chinaz.com/shiliang/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--red ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-shiliangsucai-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								矢量素材
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">打造高精矢量素材下载，包括矢量花纹、图标等</span>
+						</a>
+						<a href="http://sc.chinaz.com/ppt/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--orange ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-pptmoban-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								PPT模板下载
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">提供各类PPT模板下载，包括企业、商务等模板</span>
+						</a>
+						<a href="http://sc.chinaz.com/psd/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--yellow ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-psdsucai-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								PSD素材
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">提供广告海报、科技金融、文化美食等PSD素材</span>
+						</a>
+
+					</div>
+
+				</div>
+			</li>
+			<li>
+				<a class="nav-item__link" rel="noopener noreferrer" target="_blank" href="http://down.chinaz.com/">源码下载</a>
+			</li>
+			<li>
+				<a class="nav-item__link" rel="noopener noreferrer" target="_blank" href="http://top.chinaz.com/">网站排行<i
+						class="iconfont icon-xiangxia is-rotate"></i></a>
+				<div class="nav-item__bd cz-toprank">
+
+					<div class="nav-dropdown">
+
+						<a href="http://top.chinaz.com/hangye/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--blue
+	 nav-dropdown__link--popular ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-hangyepaihangbang-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								行业排行榜
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">提供休息娱乐、购物、服务等行业网站的排名</span>
+						</a>
+						<a href="http://top.chinaz.com/diqu/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--purple
+	 nav-dropdown__link--popular active ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-diqupaihangbang-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								地区排行榜
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">提供全国34个省级行政区域的网站排名</span>
+						</a>
+						<a href="http://top.chinaz.com/waptop/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--pink
+	 nav-dropdown__link--popular ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-yidongwangzhanpaihangbang-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								移动网站排行榜
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">提供中文移动网站在各行业各地区的排名</span>
+						</a>
+						<a href="http://top.chinaz.com/gongsi/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--red ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-gongsipaihangbang-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								公司排行榜
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">根据各行业各地区公司市值、注册资金等排名情况。</span>
+						</a>
+						<a href="http://live.chinaz.com/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--orange ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-zhubopaihangbang-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								主播排行榜
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">提供各大直播平台的主播数据、平台数据排行情况</span>
+						</a>
+						<a href="http://aso.chinaz.com/" rel="noopener noreferrer" target="_blank" class="nav-dropdown__link
+	 nav-dropdown__link--yellow ember-view" rel="nofollow noreferrer">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-appbangdanjiankong-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								APP榜单监控
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">实时提供App Store榜和安卓应用榜单变化数据.</span>
+						</a>
+
+					</div>
+
+				</div>
+			</li>
+			<li>
+				<a class="nav-item__link" rel="noopener noreferrer nofollow" target="_blank" href="http://www.chinaz.com/aboutus/index.html">关注我们<i
+						class="iconfont icon-xiangxia is-rotate"></i></a>
+				<div class="nav-item__bd cz-zmt">
+
+					<div class="nav-dropdown">
+
+						<a rel="nofollow noreferrer" href="http://weibo.com/chinaz"
+							class="nav-dropdown__link nav-dropdown__link--red" rel="noopener noreferrer" target="_blank">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-xinlanggongzhonghao-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								站长之家-新浪微博
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">有时卖萌，有时天然呆，节操与【小站】同在</span>
+						</a>
+						<a rel="nofollow noreferrer" href="javascript:void(0);"   class="nav-dropdown__link
+	 nav-dropdown__link--green ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-weixingongzhonghao-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								站长之家-微信公众号
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">请微信搜公众号站长之家，添加关注我们</span>
+							<div class="site-qrcode">
+								<!--<span>
+									<img width="110" height="110" class="site-qrcode__img lazy" src="//img.chinaz.com/2020/img/czqrcode.jpg" alt="站长之家微信号">
+									<p>站长之家</p>
+								</span>-->
+								<span>
+									<img width="110" height="110" class="site-qrcode__img lazy" src="//img.chinaz.com/2020/img/comqrcode.jpg" alt="站长之家微信号">
+									<p>站长之家</p>
+								</span> 
+							</div>
+						</a>
+
+						<a rel="nofollow noreferrer" rel="noopener noreferrer" target="_blank"
+							href="https://author.baidu.com/home/1547949707969515" class="nav-dropdown__link
+	 nav-dropdown__link--blue ember-view">
+							<div class="nav-dropdown__icon-wrapper">
+								<i class="iconfont icon-baijiahao-"></i>
+							</div>
+							<span class="nav-dropdown__label">
+								站长之家-百家号
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="ember-view">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+										<!---->
+									</path>
+								</svg>
+							</span>
+							<span class="nav-dropdown__description">专注报道互联网、创业和前沿资讯.</span>
+						</a>
+						 
+					</div>
+
+				</div>
+			</li>
+
+			<li class="nav-item--active">
+				<div class="nav-account" id="chinaz_topbar">
+
+				</div>
+			</li>
+
+		</ul>
+
+	</div>
+</div>
+<!--top site navbar end-->
+		
+<div class="bgskin"  style="background: url('https://pic.chinaz.com/2020/0925/2020092515253792.jpg') no-repeat center top;padding-top:70px;">
+<a id="bgad"  rel="nofollow noreferrer"  href="http://sc.chinaz.com/ZT/202010/?zx"  target="_blank"></a>
+<!--# 新版首页-2020 首页背投 #-->
+			 
+			<div class="cz-media__fix">
+				<div class="CClose">X</div><div class="Atext">广告</div>
+				<div class="main-navbar">
+	<div class="main-navbar__white">
+		<div class="flex-container">
+			<div class="header-logo">
+				<a href="//www.chinaz.com" title="站长之家"><img src="//img.chinaz.com/2020/img/chinaz-logo.png" alt="站长之家"></a>
+			</div>
+			<div class="header-media">
+				<div class="header-media__img">
+					<div id="setHomeNavIMedia"></div>
+					<!-- _cz_{"place":"home_navbar_img_media" , "id": "setHomeNavIMedia"} -->
+				</div>
+				<div class="header-media__text">
+					<div id="setHomeNavTMedia"></div>
+					<!-- _cz_{"place":"home_navbar_txt_media" , "id": "setHomeNavTMedia"} -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--white box-->
+	<div class="main-navbar__bgblue">
+		<div class="flex-container">
+
+						<div class="mainnav">
+				<ul class="mainnav-list">
+					<li class="">
+						<a class="sub" href="//www.chinaz.com"  class="mainnav-item__link">首页</a>
+					</li>
+					<li class="primary ml15">
+						<a class="sub" href="//www.chinaz.com/it/"  class="mainnav-item__link">资讯</a>
+					</li>
+				
+
+					<li>
+						<a class="sub" href="//www.chinaz.com/deep/"   class="mainnav-item__link">深度</a>
+					</li>
+					
+							<li>
+						<a class="sub" href="//www.chinaz.com/copyright/"   class="mainnav-item__link">版权</a>
+					</li>
+
+					<li>
+						<a class="sub" href="//www.chinaz.com/biz/" class="mainnav-item__link">电商</a>
+					</li>
+
+					<li class="more"><span class="dot"></span>
+						<div class="more-popup">
+							<ul>
+							<li>
+									<a href="//www.chinaz.com/shushuo/"  >数说</a>
+								</li>
+								<li>
+									<a href="//www.chinaz.com/5g/"  >5G<i class="hot"></i></a>
+								</li>
+								<li>
+									<a href="//www.chinaz.com/chainnews/"  >区块链</a>
+								</li>
+								<li>
+									<a href="//www.chinaz.com/mobile/"  >数码</a>
+								</li>
+								<li>
+									<a href="//www.chinaz.com/ai/"  >智能</a>
+								</li>
+								
+								<li>
+									<a href="//d.chinaz.com/" target="_blank">电竞</a>
+								</li>
+									<li>
+									<a href="//bd.chinaz.com/" target="_blank">百家号<i class="hot"></i></a>
+								</li>
+							</ul>
+						</div>
+					</li>
+
+					<li class="primary">
+						<a class="" href="//www.chinaz.com/startup/"   class="mainnav-item__link">站长</a>
+					</li>
+					<li>
+						<a class="" href="//www.chinaz.com/zmt/"   class="mainnav-item__link">自媒体</a>
+					</li>
+					<li>
+						<a class="" href="//www.chinaz.com/minapp/"   class="mainnav-item__link">小程序</a>
+					</li>
+
+					<li>
+						<a class="" href="//www.chinaz.com/vlog/"   class="mainnav-item__link">短视频</a>
+					</li>
+
+					<li class="primary">
+						<a class="" href="//www.chinaz.com/themes/"   class="mainnav-item__link">主题</a>
+					</li>
+						<!--<li>
+						<a class="" href="//www.chinaz.com/kol/"   class="mainnav-item__link">人物</a>
+					</li>
+					<li>
+						<a class="" href="//www.chinaz.com/company/"  class="mainnav-item__link">公司</a>
+					</li>-->
+					
+					
+
+					<li>
+						<a class="" href="//www.chinaz.com/hotnode/"   class="mainnav-item__link">热点</a>
+					</li>
+
+				</ul>
+			</div>
+			
+	   <div id="cz-search" class="search">
+				 	<div class="contribute-btn" style="position: absolute;left:0;top:8px;display:flex;justify-content: center;align-items: center;cursor: pointer;margin-right: 20px;z-index:2"><a href="//app.chinaz.com/author/index.html" target="_blank" rel="nofollow noreferrer"><button style="background: #00B454;border: none;font-weight:bold;padding: 0 20px;line-height: 34px; cursor: pointer;height: 34px;margin: 0;border-radius: 5px;color: #fff;">成为作者</button></a></div>
+					
+            <div class="search-form">
+                <div class="search-input">
+                    <input type="text" name="keyword" autocomplete="off" placeholder="搜索" class="search-input__bd"
+                        required="">
+                    <div class="append">
+                        <button type="submit" class="btn submit-btn btn-icon btn-expand"><svg data-v-0ea802a8=""
+                                width="1em" height="1em" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"
+                                class="icon-search icon" data-v-790e9d70="">
+                                <path
+                                    d="M16 14.588L14.601 16l-3.832-3.855a6.63 6.63 0 0 1-4.062 1.392C3.003 13.537 0 10.507 0 6.768 0 3.031 3.003 0 6.707 0c3.704 0 6.706 3.03 6.706 6.768a6.768 6.768 0 0 1-1.265 3.946L16 14.588zM6.707 1.641c-2.807 0-5.081 2.295-5.081 5.127s2.274 5.128 5.08 5.128 5.081-2.296 5.081-5.128c0-2.832-2.274-5.127-5.08-5.127z">
+                                </path>
+                            </svg></button>
+                    </div>
+
+
+                </div>
+
+                </div>
+
+                <div class="search-dropdown-container">
+                    <div>
+                        <div class="result-history hide">
+                        <div class="result-list-header">
+                            <strong>搜索历史</strong>
+                            <span class="remove" id="empty"><i></i> 清除记录</span>
+                        </div>
+                        <ul class="result-list-body" id="history">
+                           
+                        </ul>
+                        </div>
+                        <div class="result-list-header">
+                            <strong>热门搜索</strong>
+                        </div>
+                        <ol class="item-ul topic_n">
+                         
+ <li class="item-li" title="苹果iPhone 12全系售价泄露">
+<a   rel="noopener noreferrer" href="https://www.chinaz.com/2020/1004/1192157.shtml">苹果iPhone 12全系售价泄露
+
+<span>新</span>
+
+</a></li>
+ 
+ <li class="item-li" title="微信上线青少年模式">
+<a   rel="noopener noreferrer" href="https://www.chinaz.com/2020/1003/1192051.shtml">微信上线青少年模式
+
+<span>新</span>
+
+</a></li>
+ 
+ <li class="item-li" title="马云不再担任阿里巴巴集团董事">
+<a   rel="noopener noreferrer" href="https://www.chinaz.com/2020/1001/1191954.shtml">马云不再担任阿里巴巴集团董事
+
+<span>新</span>
+
+</a></li>
+ 
+ <li class="item-li" title="网易云音乐申请网愈云商标">
+<a   rel="noopener noreferrer" href="https://www.chinaz.com/2020/0930/1191780.shtml">网易云音乐申请网愈云商标
+
+</a></li>
+ 
+ <li class="item-li" title="胡厚崑当值华为轮值董事长">
+<a   rel="noopener noreferrer" href="https://www.chinaz.com/2020/0930/1191580.shtml">胡厚崑当值华为轮值董事长
+
+</a></li>
+ 
+ <li class="item-li" title="搜狗签订最终私有化协议">
+<a   rel="noopener noreferrer" href="https://www.chinaz.com/2020/0929/1191405.shtml">搜狗签订最终私有化协议
+
+</a></li>
+ 
+<!--# 新版首页-2020 搜索下拉框推荐 #-->
+                        </ol>
+                    </div>
+                </div>
+   
+
+
+
+
+           
+
+        </div>
+			
+	
+
+		</div>
+	</div>
+	<!--blue box-->
+</div>
+<!--mainnav end-->
+				<div class="media-wrapper">
+	<div class="block-container">
+		<div class="block-inner">
+
+			<div class="media-wrapper__bd">
+				<div id="home-tips"></div>
+				<div class="media-banner ">
+					<div id="setHomeTonglanTMedia"></div>
+					<!-- _cz_{"place":"home_tonglan_timg_media" , "id": "setHomeTonglanTMedia"} -->
+				</div>
+				<div class="media-text ">
+					<div id="setHomeTonglanCMedia"></div>
+					<!-- _cz_{"place":"home_tonglan_txt_media" , "id": "setHomeTonglanCMedia"} -->
+				</div>
+				<div class="media-banner">
+					<div id="setHomeTonglanBMedia"></div>
+					<!-- _cz_{"place":"home_tonglan_bimg_media" , "id": "setHomeTonglanBMedia"} -->
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+
+</div>
+
+<!--media-wrapper end-->
+				<div class="main-wrapper">
+
+					<div class="block-container">
+						<div class="block-inner__between">
+
+							<div class="cloumn cloumn-center">
+
+								<div class="cloumn-bd  section featured-wrapper">
+
+									<div class="section-title">
+
+										<h3>
+											<svg t="1584338767034" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3300" width="32" height="32"><path d="M762.1632 868.8128l-126.4128 66.4064 24.1152-140.6976-102.2464-99.6864 141.312-20.5312 63.232-128.0512 63.1808 128 141.312 20.5824-102.2464 99.6864 24.1152 140.6976z" fill="#0066cc" p-id="3301"></path><path d="M504.576 976.3328v-86.016h-344.576V116.1728h688.128v388.9152h86.016V116.224a86.016 86.016 0 0 0-86.016-86.016H160.0512a86.016 86.016 0 0 0-86.016 86.016v774.144c0 47.4624 38.5536 86.016 86.016 86.016h344.576z" fill="#333333" p-id="3302"></path><path d="M246.0672 460.1856h344.064v86.016h-344.064zM246.0672 245.1456h516.096v86.016H246.0672zM246.0672 675.2256h172.032v86.016h-172.032z" fill="#333333" p-id="3303"></path></svg>
+											推荐
+										</h3>
+
+										<div class="more">
+										<a rel="noopener noreferrer" target="_blank" href="//mt.chinaz.com/vip.aspx"  style="color:#ff0000">软文发布</a><span style="padding:0 5px;"> |</span>
+											<a rel="noopener noreferrer" target="_blank" href="//www.chinaz.com/deep/" >查看更多
+											<i class="iconfont icon-xiangyouzhankai"></i>
+											</a>
+											</div>
+
+									</div>
+
+									<div class="featured-wrapper__bd clearfix">
+
+										<ul>
+											<li class="top">
+
+												
+
+       
+	<div class="info">
+												<h2><a target="_blank"  rel="noopener noreferrer" title="网赚APP的“俄罗斯套娃”游戏" href="https://www.chinaz.com/2020/1005/1192203.shtml">
+           
+            网赚APP的“俄罗斯套娃”游戏
+           
+</a></h2>
+												<p class="desc">
+												活跃在中老年人手机当中的网赚APP，正悄悄地侵占大家的时间及隐私，它甚至可以洗脑一个人。你以为这些APP白...
+												</p>
+											</div>
+
+    
+		<!--# 新版首页-2020 首页大头条 #-->
+
+												<div class="dayhot">
+													<div class="dayhot_dayhot">
+														<div class="react-swipe-container ">
+															<div class="featured-slick">
+																
+
+<div class="dayhot_li "  >
+<a target="_blank"  rel="noopener noreferrer" href="https://www.chinaz.com/2020/0928/1190811.shtml"><img src="https://pic.chinaz.com/2020/0930/2020093011584011.jpg"  alt="这家平面设计网站月入5万，收费模式有点特别">
+<div class="text"><b>这家平面设计网站月入5万，收费模式有点特别</b></div>
+</a>
+</div>
+
+<div class="dayhot_li "  >
+<a target="_blank"  rel="noopener noreferrer" href="https://www.chinaz.com/2020/0927/1190281.shtml"><img src="https://pic.chinaz.com/2020/0929/2020092909231375.jpg"  alt="如何让“白嫖党”心甘情愿为产品掏钱?">
+<div class="text"><b>如何让“白嫖党”心甘情愿为产品掏钱?</b></div>
+</a>
+</div>
+
+<!--# 新版首页-2020 首页幻灯片 #-->
+															</div>
+														</div>
+
+													</div>
+
+													
+
+<div class="dayhot_li small">
+<a target="_blank"  rel="noopener noreferrer" href="http://www.chinaz.com/2020/1006/1192264.shtml"><img webp="false" class="lazy" src="https://pic.chinaz.com/picmap/201811151641530997_50.jpg"  alt="为什么说“抖音直播卖货”不是个好生意？">
+<div class="text"><b>为什么说“抖音直播卖货”不是个好生意？</b></div>
+</a>
+</div>
+
+<div class="dayhot_li small">
+<a target="_blank"  rel="noopener noreferrer" href="http://sc.chinaz.com/ZT/202010/?zx"><img webp="false" class="lazy" src="https://pic.chinaz.com/2020/0922/2020092208415546.jpg"  alt="国庆中秋必备素材！用过都说好">
+<div class="text"><b>国庆中秋必备素材！用过都说好</b></div>
+</a>
+</div>
+
+<!--# 新版首页-2020 首页幻灯片-次图推荐 #-->
+
+												</div>
+
+											</li>
+											<li class="media">
+												<div class="featured-wrapper__media clearfix">
+													<span>
+														推广
+													</span>
+													 
+													<div id="setHomeSlickBMedia"></div>
+													<!-- _cz_{"place":"home_slick_txt_media" , "id": "setHomeSlickBMedia"} -->		
+												</div>
+											</li>
+								
+										
+<li class="small">
+	<div class="info">
+		<h2>
+			<a   rel="noopener noreferrer" class="title"  href="https://www.chinaz.com/2020/1006/1192246.shtml" target="_blank">微商起盘，11条选品建议及微商三板斧</a>
+			
+			 <span class="editor">作者：<a target="_blank"  href="//so.chinaz.com/search.aspx?keyword=十里村&mid=3">十里村</a></span>
+			
+		</h2>	
+	</div>
+</li>
+
+<li class="small">
+	<div class="info">
+		<h2>
+			<a   rel="noopener noreferrer" class="title"  href="https://www.chinaz.com/2020/1006/1192250.shtml" target="_blank">万字醒脑长文：新消费创业，为什么大多都赔死了</a>
+			
+			 <span class="editor">作者：<a target="_blank"  href="//so.chinaz.com/search.aspx?keyword=铅笔道&mid=3">铅笔道</a></span>
+			
+		</h2>	
+	</div>
+</li>
+
+<li class="small">
+	<div class="info">
+		<h2>
+			<a   rel="noopener noreferrer" class="title"  href="https://www.chinaz.com/2020/1006/1192253.shtml" target="_blank">电商营销游戏化：谁最像10年前的腾讯？</a>
+			
+			 <span class="editor">作者：<a target="_blank"  href="//so.chinaz.com/search.aspx?keyword=银杏财经&mid=3">银杏财经</a></span>
+			
+		</h2>	
+	</div>
+</li>
+
+<li class="small">
+	<div class="info">
+		<h2>
+			<a   rel="noopener noreferrer" class="title"  href="https://www.chinaz.com/2020/1006/1192256.shtml" target="_blank">市井却迷人：五条人的媒介形象是如何被建构起来的？</a>
+			
+			 <span class="editor">作者：<a target="_blank"  href="//so.chinaz.com/search.aspx?keyword=全媒派&mid=3">全媒派</a></span>
+			
+		</h2>	
+	</div>
+</li>
+<!--# 新版首页-2020 编辑推荐 #-->
+
+
+										</ul>
+
+									</div>
+
+								</div>
+
+
+
+							</div>
+
+							<!--cloumn-center end-->
+
+							<div class="cloumn cloumn-right">
+
+
+
+								<div class="cloumn-bd   section hotopic-wrapper  ">
+
+									<div class="section-title">
+
+										<h3>
+										<svg t="1584338955945" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3811" width="32" height="32"><path d="M146.285714 0h731.428572a73.142857 73.142857 0 0 1 73.142857 73.142857v877.714286a73.142857 73.142857 0 0 1-73.142857 73.142857H146.285714a73.142857 73.142857 0 0 1-73.142857-73.142857V73.142857a73.142857 73.142857 0 0 1 73.142857-73.142857z m0 950.857143h731.428572V73.142857H146.285714v877.714286z" fill="#141414" p-id="3812" data-spm-anchor-id="a313x.7781069.0.i16" class="selected"></path><path d="M292.571429 219.428571m73.142857 0l292.571428 0q73.142857 0 73.142857 73.142858l0 0q0 73.142857-73.142857 73.142857l-292.571428 0q-73.142857 0-73.142857-73.142857l0 0q0-73.142857 73.142857-73.142858Z" fill="#0066cc" p-id="3813" data-spm-anchor-id="a313x.7781069.0.i13" class=""></path><path d="M292.571429 512m36.571428 0l365.714286 0q36.571429 0 36.571428 36.571429l0 0q0 36.571429-36.571428 36.571428l-365.714286 0q-36.571429 0-36.571428-36.571428l0 0q0-36.571429 36.571428-36.571429Z" fill="#141414" p-id="3814" data-spm-anchor-id="a313x.7781069.0.i17" class="selected"></path><path d="M292.571429 731.428571m36.571428 0l365.714286 0q36.571429 0 36.571428 36.571429l0 0q0 36.571429-36.571428 36.571429l-365.714286 0q-36.571429 0-36.571428-36.571429l0 0q0-36.571429 36.571428-36.571429Z" fill="#141414" p-id="3815" data-spm-anchor-id="a313x.7781069.0.i18" class="selected"></path></svg>
+											话题
+										</h3>
+										
+											<div class="more">
+											 
+											<a rel="noopener noreferrer" target="_blank" href="//www.chinaz.com/themes/">更多<i
+													class="iconfont icon-xiangyouzhankai"></i></a>
+										</div>
+
+									</div>
+
+									<div class="tab">
+										<ul class="tab-hd two-tab clearfix">
+											<li class="select">热门</li>
+											<li class="tab-hd-title">新品</li>
+										</ul>
+										<div class="tab-bd">
+											<div class="hotopic-wrapper__bd">
+												<ul>
+
+
+	<li>
+		<div class="topic-info__bd">
+			<a href="https://www.chinaz.com/2020/0928/1190872.shtml"  rel="noopener noreferrer" target="_blank">
+				<div class="thumb" style="background: url('https://pic.chinaz.com/thumb/2020/0929/2020092909441324.jpg') no-repeat;background-size: cover;-webkit-background-size: cover;-o-background-size: cover;background-position: center 0;">
+				</div>
+				<div class="info">
+					<h4>ping.cn<span class="">关注</span></h4>
+					<p class="desc">
+						为了方便站长和企业开发者能更快更全面检测全国各地到服务器的网络情况，深度分析网站..
+					</p>
+
+				</div>
+			</a>
+		</div>
+	</li> 
+
+	<li>
+		<div class="topic-info__bd">
+			<a href="https://www.chinaz.com/2020/1004/1192159.shtml"  rel="noopener noreferrer" target="_blank">
+				<div class="thumb" style="background: url('https://pic.chinaz.com/picmap/thumb/201811151706258472_0.jpg') no-repeat;background-size: cover;-webkit-background-size: cover;-o-background-size: cover;background-position: center 0;">
+				</div>
+				<div class="info">
+					<h4>苹果iPhone 12全系售价泄露<span class="">关注</span></h4>
+					<p class="desc">
+						近日，Appleinsider援引知情人士的话称，，苹果将在 10 月 13 日举办发布会，发布iPho..
+					</p>
+
+				</div>
+			</a>
+		</div>
+	</li> 
+
+	<li>
+		<div class="topic-info__bd">
+			<a href="https://www.chinaz.com/2020/1003/1192064.shtml"  rel="noopener noreferrer" target="_blank">
+				<div class="thumb" style="background: url('https://pic.chinaz.com/picmap/thumb/201901091156007183_0.jpg') no-repeat;background-size: cover;-webkit-background-size: cover;-o-background-size: cover;background-position: center 0;">
+				</div>
+				<div class="info">
+					<h4>微信上线青少年模式<span class="">关注</span></h4>
+					<p class="desc">
+						微信在近日上线了“青少年模式”，在开启了该模式后，附近的人、摇一摇等5个功能将默认..
+					</p>
+
+				</div>
+			</a>
+		</div>
+	</li> 
+
+	<li>
+		<div class="topic-info__bd">
+			<a href="https://www.chinaz.com/2020/0930/1191492.shtml"  rel="noopener noreferrer" target="_blank">
+				<div class="thumb" style="background: url('https://pic.chinaz.com/picmap/thumb/202006051113484695_39.jpg') no-repeat;background-size: cover;-webkit-background-size: cover;-o-background-size: cover;background-position: center 0;">
+				</div>
+				<div class="info">
+					<h4>疫情期间网游投诉超2万件<span class="">关注</span></h4>
+					<p class="desc">
+						昨日，中国消费者协会发布了《网络游戏消费者主要投诉问题报告》，报告显示，疫情期间..
+					</p>
+
+				</div>
+			</a>
+		</div>
+	</li> 
+
+	<li>
+		<div class="topic-info__bd">
+			<a href="https://www.chinaz.com/2020/0929/1191330.shtml"  rel="noopener noreferrer" target="_blank">
+				<div class="thumb" style="background: url('https://pic.chinaz.com/picmap/thumb/202005221631573950_0.jpg') no-repeat;background-size: cover;-webkit-background-size: cover;-o-background-size: cover;background-position: center 0;">
+				</div>
+				<div class="info">
+					<h4>10岁以下网民占比3.5%<span class="">关注</span></h4>
+					<p class="desc">
+						今日，中国互联网络信息中心(CNNIC)发布了第 46 次《中国互联网络发展状况统计报告》。..
+					</p>
+
+				</div>
+			</a>
+		</div>
+	</li> 
+
+
+</ul><!--# 新版首页-2020 话题-热门 #-->
+											</div>
+											<div class="hotopic-wrapper__bd">
+												<ul>
+
+
+	<li>
+		<div class="topic-info__bd">
+			<a href="https://www.chinaz.com/2020/0928/1190726.shtml"  rel="noopener noreferrer" target="_blank">
+				<div class="thumb" style="background: url('https://pic.chinaz.com/thumb/2020/0928/6373690260652388401313157.jpg') no-repeat;background-size: cover;-webkit-background-size: cover;-o-background-size: cover;background-position: center 0;">
+				</div>
+				<div class="info">
+					<h4>小米电视大师至尊版<span class="">关注</span></h4>
+					<p class="desc">
+						小米刚刚正式推出小米电视大师系列的第三款产品 小米电视大师至尊版，小米电视大师至尊..
+					</p>
+
+				</div>
+			</a>
+		</div>
+	</li>
+
+	<li>
+		<div class="topic-info__bd">
+			<a href="https://www.chinaz.com/2020/0923/1188359.shtml"  rel="noopener noreferrer" target="_blank">
+				<div class="thumb" style="background: url('https://pic.chinaz.com/thumb/2020/0923/2020092310300950.png') no-repeat;background-size: cover;-webkit-background-size: cover;-o-background-size: cover;background-position: center 0;">
+				</div>
+				<div class="info">
+					<h4>vivo Watch<span class="">关注</span></h4>
+					<p class="desc">
+						昨日晚间，vivo推出了全新智能穿戴产品——vivo WATCH。外观上，vivo Watch全系选用31..
+					</p>
+
+				</div>
+			</a>
+		</div>
+	</li>
+
+	<li>
+		<div class="topic-info__bd">
+			<a href="https://www.chinaz.com/2020/0922/1187925.shtml"  rel="noopener noreferrer" target="_blank">
+				<div class="thumb" style="background: url('https://pic.chinaz.com/thumb/2020/0922/2020092214034925.png') no-repeat;background-size: cover;-webkit-background-size: cover;-o-background-size: cover;background-position: center 0;">
+				</div>
+				<div class="info">
+					<h4>柔宇FlexPai2<span class="">关注</span></h4>
+					<p class="desc">
+						今天柔宇科技发布了第二代5G折叠新机FlexPai 2。该机采用7. 8 英寸第三代蝉翼全柔性屏..
+					</p>
+
+				</div>
+			</a>
+		</div>
+	</li>
+
+	<li>
+		<div class="topic-info__bd">
+			<a href="https://www.chinaz.com/2020/0918/1186482.shtml"  rel="noopener noreferrer" target="_blank">
+				<div class="thumb" style="background: url('https://pic.chinaz.com/thumb/2020/0918/2020091811430378.jpg') no-repeat;background-size: cover;-webkit-background-size: cover;-o-background-size: cover;background-position: center 0;">
+				</div>
+				<div class="info">
+					<h4>索尼PS5<span class="">关注</span></h4>
+					<p class="desc">
+						索尼PS5CPU方面采用了AMD定制的ZEN2 架构处理器，最大频率3.5GHz，GPU使用了AMD Radeo..
+					</p>
+
+				</div>
+			</a>
+		</div>
+	</li>
+
+	<li>
+		<div class="topic-info__bd">
+			<a href="https://www.chinaz.com/2020/0917/1186053.shtml"  rel="noopener noreferrer" target="_blank">
+				<div class="thumb" style="background: url('https://pic.chinaz.com/thumb/2020/0917/2020091715594100.jpg') no-repeat;background-size: cover;-webkit-background-size: cover;-o-background-size: cover;background-position: center 0;">
+				</div>
+				<div class="info">
+					<h4>荣耀猎人游戏本V700<span class="">关注</span></h4>
+					<p class="desc">
+						荣耀猎人游戏本V700 是荣耀于 2020 年 9 月 16 日发布的首款游戏本。配置上，荣耀猎人..
+					</p>
+
+				</div>
+			</a>
+		</div>
+	</li>
+
+
+</ul>
+<!--# 新版首页-2020 话题-新品 #-->
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<!--hotopic end-->
+
+
+							</div>
+
+							<!--cloum-right end-->
+
+						</div>
+
+
+						<div class="block-inner">
+
+							<div class="cloumn cloumn-bd   section datainfo-wrapper">
+
+								<div class="section-title">
+
+									<h3>
+										<svg t="1584348067369" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="29546" width="32" height="32"><path d="M504.576 976.32v-86.016H160V116.16h688.128v388.928h86.016V116.224A86.016 86.016 0 0 0 848.128 30.208H160.032a86.048 86.048 0 0 0-86.016 86.016v774.144a86.08 86.08 0 0 0 86.016 86.016H504.64l-0.064-0.064z" fill="#333333" p-id="29547"></path><path d="M246.048 460.192h344.064v86.016H246.048v-86.016z m0-215.04h516.064v86.016H246.048V245.152z m0 430.112h172.032v86.016H246.048v-86.016z" fill="#333333" p-id="29548"></path><path d="M724.736 546.24a232.416 232.416 0 0 0-232.448 232.416 232.416 232.416 0 0 0 232.448 232.448 232.384 232.384 0 0 0 232.416-232.448h-232.416V546.24z" fill="#0069CB" p-id="29549"></path><path d="M759.552 511.392v232.448H992a232.384 232.384 0 0 0-232.448-232.448z" fill="#0069CB" p-id="29550"></path></svg>
+										数说
+									</h3>
+	<div class="more">
+										<a href="//www.chinaz.com/report/" class="more-link" rel="noopener noreferrer" target="_blank">公司财报</a> | <a class="more-link" href="//www.chinaz.com/ecdata/" rel="noopener noreferrer" target="_blank">电商消费</a> | <a class="more-link" href="//www.chinaz.com/rank/" rel="noopener noreferrer" target="_blank">排行榜</a> | <a class="more-link" href="//www.chinaz.com/wxq/" rel="noopener noreferrer" target="_blank">微信生态</a> | <a class="more-link" href="//www.chinaz.com/shortvideo/" rel="noopener noreferrer" target="_blank">短视频</a> | <a class="more-link" href="//www.chinaz.com/douyin/" rel="noopener noreferrer" target="_blank">抖音</a> | <a class="more-link" href="//www.chinaz.com/kuaishou/index.shtml" rel="noopener noreferrer" target="_blank">快手</a>  |  <a class="more-link" href="//www.chinaz.com/shushuo/" rel="noopener noreferrer" target="_blank">更多<i class="iconfont icon-xiangyouzhankai"></i></a>
+
+
+									</div>
+
+								</div>
+
+
+								<div class="datainfo-wrapper__bd">
+									<ul>
+
+
+<li class="datainfo-item">
+	<a href="https://www.chinaz.com/2020/0930/1191681.shtml"  rel="noopener noreferrer"  title="好看视频创作者破百万 独立App日活超" target="_blank">
+		<div class="info">
+			<div class="title">
+				<div class="embelish">//</div>
+				<div class="content"><span>3000</span><span>万</span></div>
+				<div class="embelish">//</div>
+			</div>
+			<div class="slogan">好看视频创作者破百万 独立App日活超</div>
+		</div>
+	</a>
+</li>
+
+<li class="datainfo-item">
+	<a href="https://www.chinaz.com/2020/0930/1191643.shtml"  rel="noopener noreferrer"  title="百度宣布旗下小度科技获独立融资 估值达约" target="_blank">
+		<div class="info">
+			<div class="title">
+				<div class="embelish">//</div>
+				<div class="content"><span>200</span><span>亿元</span></div>
+				<div class="embelish">//</div>
+			</div>
+			<div class="slogan">百度宣布旗下小度科技获独立融资 估值达约</div>
+		</div>
+	</a>
+</li>
+
+<li class="datainfo-item">
+	<a href="https://www.chinaz.com/2020/0930/1191596.shtml"  rel="noopener noreferrer"  title="阿里巴巴首次披露技术研发投入 每年超" target="_blank">
+		<div class="info">
+			<div class="title">
+				<div class="embelish">//</div>
+				<div class="content"><span>1000</span><span>亿元</span></div>
+				<div class="embelish">//</div>
+			</div>
+			<div class="slogan">阿里巴巴首次披露技术研发投入 每年超</div>
+		</div>
+	</a>
+</li>
+
+<li class="datainfo-item">
+	<a href="https://www.chinaz.com/2020/0929/1191246.shtml"  rel="noopener noreferrer"  title="CNNIC：我国共有9.4亿网民 2成收入不到" target="_blank">
+		<div class="info">
+			<div class="title">
+				<div class="embelish">//</div>
+				<div class="content"><span>1000</span><span>元</span></div>
+				<div class="embelish">//</div>
+			</div>
+			<div class="slogan">CNNIC：我国共有9.4亿网民 2成收入不到</div>
+		</div>
+	</a>
+</li>
+
+<li class="datainfo-item">
+	<a href="https://www.chinaz.com/2020/0929/1191109.shtml"  rel="noopener noreferrer"  title="中通快递正式在港上市 总市值突破" target="_blank">
+		<div class="info">
+			<div class="title">
+				<div class="embelish">//</div>
+				<div class="content"><span>2000</span><span>亿港元</span></div>
+				<div class="embelish">//</div>
+			</div>
+			<div class="slogan">中通快递正式在港上市 总市值突破</div>
+		</div>
+	</a>
+</li>
+
+
+</ul><!--# 新版首页-2020 今日数据 #-->
+								</div>
+
+
+
+							</div>
+
+						</div>
+
+
+
+
+						<div class="block-inner">
+							<div id="setHomeTonglanEIBMedia"></div>
+							<!-- _cz_{"place":"home_tonglan_ext_img_media" , "id": "setHomeTonglanEIBMedia"} -->		
+						</div>
+
+
+						<div class="block-inner__between">
+
+							<div class="cloumn cloumn-center">
+
+
+
+								<div class="cloumn-bd   section latest-wrapper">
+
+									<div class="section-title">
+
+										<h3>
+										<svg t="1584340276729" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="15314" width="32" height="32"><path d="M504.576 976.32v-86.016H160V116.16h688.128v388.928h86.016V116.224A86.016 86.016 0 0 0 848.128 30.208H160.032a86.048 86.048 0 0 0-86.016 86.016v774.144a86.08 86.08 0 0 0 86.016 86.016H504.64l-0.064-0.064z" fill="#333333" p-id="15315"></path><path d="M246.048 460.192h344.064v86.016H246.048v-86.016z m0-215.04h516.096v86.016H246.048V245.152z m0 430.08h172.032v86.016H246.048v-86.016z" fill="#333333" p-id="15316"></path><path d="M764.736 770.848m-231.328 0a231.328 231.328 0 1 0 462.656 0 231.328 231.328 0 1 0-462.656 0Z" fill="#0066CC" p-id="15317"></path><path d="M713.152 658.656h48.992v118.528h-48.992z" fill="#0066CC" p-id="15318"></path><path d="M713.152 761.248h132v49.408h-132z" fill="#0066CC" p-id="15319"></path><path d="M764.736 770.848m-132.672 0a132.672 132.672 0 1 0 265.344 0 132.672 132.672 0 1 0-265.344 0Z" fill="#FFFFFF" p-id="15320"></path><path d="M731.328 674.688h60.992v109.088h-60.992z" fill="#0066CC" p-id="15321"></path><path d="M731.328 754.592h106.528v50.656h-106.528z" fill="#0066CC" p-id="15322"></path></svg>
+											快讯
+										</h3>
+
+										<div class="more">
+											<a class="change">换一批</a>
+											<a target="_blank" href="//www.chinaz.com/24hour.shtml">更多快讯<i
+													class="iconfont icon-xiangyouzhankai"></i></a>
+										</div>
+
+									</div>
+
+									<div class="latest-wrapper__bd">
+
+										<ul id="latest-json">
+											 
+											<li>
+												<div class="title">
+													<div class="toggle">
+													</div>
+													<h4>
+														<a  href="https://www.chinaz.com/2020/1006/1192266.shtml" rel="noopener noreferrer" target="_blank">
+															
+																苹果三大代工厂拟在印度投9亿美元
+														   
+													   </a>
+												   </h4>
+												</div>
+												<p  class="time" title="2020-10-06 10:45:06"></p>
+											</li>
+											
+											<li>
+												<div class="title">
+													<div class="toggle">
+													</div>
+													<h4>
+														<a  href="https://www.chinaz.com/2020/1006/1192255.shtml" rel="noopener noreferrer" target="_blank">
+															
+																三星：5nm制程Exynos旗舰处理器即将发布
+														   
+													   </a>
+												   </h4>
+												</div>
+												<p  class="time" title="2020-10-06 10:06:42"></p>
+											</li>
+											
+											<li>
+												<div class="title">
+													<div class="toggle">
+													</div>
+													<h4>
+														<a  href="https://www.chinaz.com/2020/1006/1192251.shtml" rel="noopener noreferrer" target="_blank">
+															
+																诺贝尔奖奖金发了119年还没发完 今年奖金增加至1000万瑞典
+														   
+													   </a>
+												   </h4>
+												</div>
+												<p  class="time" title="2020-10-06 09:09:26"></p>
+											</li>
+											
+											
+										</ul>
+									</div>
+
+								</div>
+
+ 
+
+								<div class="cloumn-bd  section recommond-wrapper">
+
+									<div class="section-title">
+
+										<h3>
+										<svg t="1584340652813" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="18789" width="32" height="32"><path d="M876.448 1017.984H147.584c-51.2 0-96.384-42.144-96.384-96.384V102.4C51.2 51.2 93.344 6.016 147.584 6.016h728.864c51.2 0 96.384 42.144 96.384 96.384v819.2c-0.032 54.208-42.208 96.384-96.384 96.384zM147.584 78.304a23.744 23.744 0 0 0-24.096 24.096v819.2c0 15.072 12.032 24.096 24.096 24.096h728.864a23.744 23.744 0 0 0 24.064-24.096V102.4a23.744 23.744 0 0 0-24.064-24.096H147.584z" fill="#525252" p-id="18790"></path><path d="M605.376 210.816h165.632v69.28h-165.632V210.816z m0 186.72h165.632v69.28h-165.632v-69.28zM252.992 584.288h518.016v69.28H252.992v-69.28z m0 189.728h518.016v69.28H252.992v-69.28z" fill="#525252" p-id="18791"></path><path d="M876.448 1017.984H147.584c-51.2 0-96.384-42.144-96.384-96.384V102.4C51.2 51.2 93.344 6.016 147.584 6.016h728.864c51.2 0 96.384 42.144 96.384 96.384v819.2c-0.032 54.208-42.208 96.384-96.384 96.384zM147.584 78.304a23.744 23.744 0 0 0-24.096 24.096v819.2c0 15.072 12.032 24.096 24.096 24.096h728.864a23.744 23.744 0 0 0 24.064-24.096V102.4a23.744 23.744 0 0 0-24.064-24.096H147.584z" fill="#141414" p-id="18792"></path><path d="M605.376 210.816h165.632v69.28h-165.632V210.816z m0 186.72h165.632v69.28h-165.632v-69.28zM252.992 584.288h518.016v69.28H252.992v-69.28z m0 189.728h518.016v69.28H252.992v-69.28z" fill="#141414" p-id="18793"></path><path d="M248.544 210.816h282.08v277.088H248.544z" fill="#0068CC" p-id="18794"></path><path d="M318.592 282.368h142.016v134.016H318.592z" fill="#FFFFFF" p-id="18795"></path></svg>
+											热点
+										</h3>
+
+										<div class="recommond-tab">
+											<span id="data-like" class="recommond-tab--hover" data-tab="0">
+												最新
+											</span>
+											<span id="data-like" data-tab="1">
+												推荐
+											</span>
+											<span id="data-zmt" data-tab="2">
+												自媒体
+											</span>
+											<span id="data-xcx" data-tab="3">
+												小程序
+											</span>
+											<span id="data-dsp" data-tab="4">
+												短视频
+											</span>
+										</div>
+
+									</div>
+
+									<div class="recommond-wrapper__bd scrollload-container" id="recommond-json">
+										<div class="msg-alert">
+											<div class="loading ball-pulse">
+												<div></div>
+												<div></div>
+												<div></div> <span>加载中⋅⋅⋅</span>
+											</div>
+										</div>
+										<ul class="scrollload-content">
+
+										
+										
+								 
+										
+											<li data-contentid="1192232" class="single-mode">
+										
+											<div class="thumb">
+													<a href="https://www.chinaz.com/2020/1005/1192232.shtml" rel="noopener noreferrer" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201905280902313179_11.jpg" alt="7500+马蜂窝游记分析，数据视角下的旅游众生相" /></a>
+												</div>
+											
+												<div class="info">
+													<div class="info-limit">
+														<h3> 
+															<a target="_blank" rel="noopener noreferrer"  href="https://www.chinaz.com/2020/1005/1192232.shtml">
+																
+																	7500+马蜂窝游记分析，数据视角下的旅游众生相
+																
+															</a>
+														</h3>
+														<p class="desc">
+															所谓旅游，就是从自己呆腻的地方去别人呆腻的地方。但是去哪儿旅游、和谁一起、花多少钱，一直是人们关注的问题。我们分析了马蜂窝旅游日记相关数..
+														</p>
+													
+														
+													 
+														
+													</div>
+											
+													<div class="relate">
+														
+													
+													
+												 
+														
+													<div class="relate-item">
+														<a target="_blank" rel="noopener noreferrer" href="https://www.chinaz.com/2020/1005/1192224.shtml">阿里抄底：投了一家旅游公司</a>
+														<span class="source">
+																投资界公众号
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank" rel="noopener noreferrer" href="https://www.chinaz.com/2020/1004/1192167.shtml">国庆前3天全国旅游收入超2千亿元，接待游客3.16亿人次</a>
+														<span class="source">
+																用户投稿
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank" rel="noopener noreferrer" href="https://www.chinaz.com/2020/1003/1192103.shtml">一场直播增粉23万，线下旅游会成为直播电商的下一个爆点吗？</a>
+														<span class="source">
+																淘榜单公众号
+															</span>
+													</div>
+												
+												
+													
+																									
+	 
+											
+													</div>
+											
+													<div class="meta">
+														<div class="tags">
+															<a target='_blank' rel='noopener noreferrer'  href='/tags/mafengwo.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>马蜂窝</a><a target='_blank' rel='noopener noreferrer'  href='/tags/lvyou.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>旅游</a><a target='_blank' rel='noopener noreferrer'  href='/tags/zaixianlvyou.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>在线旅游</a>
+														</div>
+														<div class="time" title="2020-10-06 10:10:25">
+											
+														</div>
+														<a class="search-topic" rel="nofollow noopener noreferrer" target="_blank"  href="//so.chinaz.com/search.aspx?keyword=马蜂窝 旅游 在线旅游 ">
+															更多话题<span></span>
+														</a>
+													</div>
+												</div>
+													
+												
+										</li>
+											
+										
+								 
+										
+											<li data-contentid="1192215" class="single-mode">
+										
+											<div class="thumb">
+													<a href="https://www.chinaz.com/2020/1005/1192215.shtml" rel="noopener noreferrer" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201907152222451022_6.jpg" alt="超6成新国货品牌在B站冷启动？" /></a>
+												</div>
+											
+												<div class="info">
+													<div class="info-limit">
+														<h3> 
+															<a target="_blank" rel="noopener noreferrer"  href="https://www.chinaz.com/2020/1005/1192215.shtml">
+																
+																	超6成新国货品牌在B站冷启动？
+																
+															</a>
+														</h3>
+														<p class="desc">
+															疫情期间“钉钉本钉，在线求饶”的视频你一定刷过吧，还有前段时间的“我就是那个吃了假辣椒酱的憨憨企鹅”视频也刷过吧。这是一个有趣的现象：这..
+														</p>
+													
+														
+													 
+														
+													</div>
+											
+													<div class="relate">
+														
+													
+													
+												 
+														
+													<div class="relate-item">
+														<a target="_blank" rel="noopener noreferrer" href="https://www.chinaz.com/2020/0930/1191495.shtml">AB站鼻祖陷入困境：Niconico收入连年下滑、用户量萎缩</a>
+														<span class="source">
+																三文娱公众号
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank" rel="noopener noreferrer" href="https://www.chinaz.com/2020/0930/1191470.shtml">《沉默的真相》爆火，B站有多少功劳？</a>
+														<span class="source">
+																卡思数据公众号
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank" rel="noopener noreferrer" href="https://www.chinaz.com/2020/0924/1188849.shtml">抖音、快手变长，B站、趣头条变短</a>
+														<span class="source">
+																深几度公众号
+															</span>
+													</div>
+												
+												
+													
+																									
+	 
+											
+													</div>
+											
+													<div class="meta">
+														<div class="tags">
+															<a target='_blank' rel='noopener noreferrer'  href='/tags/Bzhan.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>B站</a><a target='_blank' rel='noopener noreferrer'  href='/tags/dingding.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>钉钉</a><a target='_blank' rel='noopener noreferrer'  href='/tags/wangluoyingxiao.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>网络营销</a>
+														</div>
+														<div class="time" title="2020-10-06 08:45:38">
+											
+														</div>
+														<a class="search-topic" rel="nofollow noopener noreferrer" target="_blank"  href="//so.chinaz.com/search.aspx?keyword=B站 钉钉 网络营销 ">
+															更多话题<span></span>
+														</a>
+													</div>
+												</div>
+													
+												
+										</li>
+											
+										
+										
+										
+									
+									
+									
+									
+										<li data-contentid="1192269" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1006/1192269.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201908301054372166_6.jpg" alt="苹果将停止出售竞品品牌 包括罗技、Bose等耳机和无线音响产品" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1006/1192269.shtml">
+															
+																苹果将停止出售竞品品牌的耳机和无线音响产品
+															
+														</a>
+													</h3>
+													<p class="desc">
+														据媒体报道，苹果将停止在其网站上销售竞品品牌的耳机和无线音响等产品，涉及Sonos、Bose和罗技国际等公司的耳机和无线扬声器等设备。..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1006/1192259.shtml">对标苹果A14、麒麟9000！高通骁龙875要来了：首次采用真“超大核”</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192218.shtml">4400元起！iPhone 12全系售价曝光：苹果良心了</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192208.shtml">iPad Air 4电源键集成Touch ID 苹果高管：“难以置信的壮举”</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/pingguo.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>苹果</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/luoji.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>罗技</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/wuxianyinxiang.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>无线音响</a>
+													</div>
+													<div class="time" title="2020-10-06 11:23:36">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=苹果 罗技 无线音响 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192267" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1006/1192267.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201811151621150247_130.jpg" alt="思科被判专利侵权：需支付19亿美元赔偿金" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1006/1192267.shtml">
+															
+																思科被判专利侵权：需支付19亿美元赔偿金
+															
+														</a>
+													</h3>
+													<p class="desc">
+														据媒体报道，在经过一个月的无陪审团审判后，弗吉尼亚州诺福克(Norfolk)的美国地区法官亨利·摩根(Henry Morgan)判定，思科侵犯了弗吉尼亚州私人持..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0829/1177980.shtml">得罪不起！程序员离职后一段代码让思科损失240万美元</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0827/1177188.shtml">思科前员工为报复恶意删除400多台虚拟机，公司损失超1600万</a>
+														<span class="source">
+																InfoQ公众号
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0819/1173196.shtml">苹果供应商蓝思科技拟以99亿元收购可成科技部分业务</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/sike.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>思科</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/zhuanli.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>专利</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/wangluoanquan.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>网络安全</a>
+													</div>
+													<div class="time" title="2020-10-06 10:46:32">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=思科 专利 网络安全 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192263" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1006/1192263.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201901021020337679_3.jpg" alt="华为宣布完成全球首个基于5G商用手机的5G NR广播试验" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1006/1192263.shtml">
+															
+																华为宣布完成全球首个基于5G商用手机的5G NR广播试验
+															
+														</a>
+													</h3>
+													<p class="desc">
+														日前，华为中国宣布，华为研发团队在中国广电指导下已经完成全球首个基于5G商用手机的5G NR广播试验及演示。在现场演示过程中，通过 10 部华为 Ma..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192223.shtml">华为Mate40系列或10月15日发布：麒麟9000＋66W双向快充</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1001/1191943.shtml">华为海思2021届博士招聘进行中 涉及多类芯片岗位</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1001/1191932.shtml">尴尬了：腾讯刚给员工发1万台华为Mate Xs 不少人已在闲鱼出售</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/huawei.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>华为</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/5G.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>5G</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/5Gshouji.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>5G手机</a>
+													</div>
+													<div class="time" title="2020-10-06 10:24:57">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=华为 5G 5G手机 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192262" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1006/1192262.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201909291149253517_5.jpg" alt="外媒曝iPhone 12 mini五大“阉割”：电池最小、没长焦镜头" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1006/1192262.shtml">
+															
+																iPhone 12 mini五大“阉割”：电池最小、没长焦镜头
+															
+														</a>
+													</h3>
+													<p class="desc">
+														已知爆料显示，iPhone12 有望在 10 月 13 日正式与大家见面，并采用分批上市的策略，5. 4 英寸的iPhone 12 mini、6. 1 英寸的iPhone12 先发，iPho..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192222.shtml">iPhone12系列只有两款支持毫米波频段：国内可能用不上</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192218.shtml">4400元起！iPhone 12全系售价曝光：苹果良心了</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192193.shtml">649美元起！苹果iPhone 12全系售价曝光：标配数据线但无充电器</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/iPhone12.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>iPhone12</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/pingguo.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>苹果</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/iPhone12mini.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>iPhone12mini</a>
+													</div>
+													<div class="time" title="2020-10-06 10:10:40">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=iPhone12 苹果 iPhone12mini ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192258" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1006/1192258.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/thumb/2020/1006/2020100610015003010.png" alt="NVIDIA推出视频会议平台 超低带宽且支持多项AI云处理" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1006/1192258.shtml">
+															
+																NVIDIA推出视频会议平台 超低带宽且支持多项AI云处理
+															
+														</a>
+													</h3>
+													<p class="desc">
+														今日，NVIDIA宣布推出一款名为NVIDIA Maxine的视频会议平台，据称该平台将允许开发者利用NVIDIA的云端AI处理能力，提供诸如超分辨率、噪声消除、面..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1006/1192254.shtml">英伟达宣布与GSK AI实验室达成合作，研发药物和疫苗</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0929/1191116.shtml">外媒：台积电3nm工艺后三波产能将被高通英伟达等厂商预订</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0924/1189235.shtml">英伟达发布CUDA 11.1工具包：支持RTX 30系显卡 改善版本兼容性</a>
+														<span class="source">
+																cnbeta
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/yingweida.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>英伟达</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/shipinhuiyi.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>视频会议</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/AI.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>AI</a>
+													</div>
+													<div class="time" title="2020-10-06 10:00:35">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=英伟达 视频会议 AI ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192252" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1006/1192252.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/thumb/2020/1006/20100609050852634.jpg" alt="2020骁龙技术峰会即将召开 高通骁龙875要来了？" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1006/1192252.shtml">
+															
+																2020骁龙技术峰会即将召开 高通骁龙875要来了？
+															
+														</a>
+													</h3>
+													<p class="desc">
+														10月6日消息，据国外媒体报道，高通近日宣布将于12月1日-2日举办2020骁龙技术峰会，届时，高通新一代旗舰芯片可能会与消费者见面。在邀请函中，高..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0930/1191484.shtml">小米10T Lite即将发布：首发高通骁龙750G</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0925/1189358.shtml">三星5nm代工！高通骁龙875曝光：多个版本、跟A14对抗</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0923/1188795.shtml">华为愿意使用高通芯片，一直是重要的合作伙伴</a>
+														<span class="source">
+																用户投稿
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/gaotong.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>高通</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/xiaolong875.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>骁龙875</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/gaotongxiaolong.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>高通骁龙</a>
+													</div>
+													<div class="time" title="2020-10-06 09:08:49">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=高通 骁龙875 高通骁龙 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192230" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1005/1192230.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201910161716055910_2.jpg" alt="小鹏汽车9月交付量破纪录！同比暴增近150%" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192230.shtml">
+															
+																小鹏汽车9月交付量破纪录！同比暴增近150%
+															
+														</a>
+													</h3>
+													<p class="desc">
+														日前，小鹏汽车对外公布了 9 月份的交付数据，小鹏汽车此次迫不及待公布交付数据，也与其表现不错的交付情况有关。小鹏汽车的交付三大数据同时创历..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192194.shtml">特斯拉侧目！小鹏汽车推保价政策 老车主买贵就退钱</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0928/1190669.shtml">小鹏汽车获40亿元融资 将用于智造基地建设和购置设备等项目</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0927/1190035.shtml">小鹏汽车在北京汽车展上展示电动飞行汽车原型 最多载两名乘客</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/xiaopengqiche.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>小鹏汽车</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/diandongqiche.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>电动汽车</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/xiaopeng.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>小鹏</a>
+													</div>
+													<div class="time" title="2020-10-05 21:33:14">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=小鹏汽车 电动汽车 小鹏 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192223" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1005/1192223.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/thumb/2020/1005/20100517543731801.jpg" alt="华为Mate40系列或10月15日发布：麒麟9000＋66W双向快充" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192223.shtml">
+															
+																华为Mate40系列或10月15日发布：麒麟9000＋66W双向快充
+															
+														</a>
+													</h3>
+													<p class="desc">
+														每年10月对于手机圈来说，都是一个“神仙打架”的时间，今年随着iPhone12系列旗舰的加入，更加增添了旗舰大战的激烈程度，而iPhone 12的最大对手，..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0930/1191798.shtml">华为Mate40手机首发66W快充 分析师：利好千亿充电器市场</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0930/1191749.shtml">华为Mate40发布时间曝光，将比iPhone12晚两天</a>
+														<span class="source">
+																站长之家
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0929/1191083.shtml">华为Mate40发布会是十月几号 Mate40发布时间曝光</a>
+														<span class="source">
+																站长之家用户投稿
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/huawei.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>华为</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/huaweiMate40.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>华为Mate40</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/qilinxinpian.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>麒麟芯片</a>
+													</div>
+													<div class="time" title="2020-10-05 18:36:58">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=华为 华为Mate40 麒麟芯片 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192219" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1005/1192219.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201811151633432305_83.jpg" alt="终身免费！蔚来用户累计换电超100万次 节省1个亿" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192219.shtml">
+															
+																终身免费！蔚来用户累计换电超100万次 节省1个亿
+															
+														</a>
+													</h3>
+													<p class="desc">
+														10 月 5 日消息，造车新势力蔚来官方微博今日宣布，蔚来用户累计换电超 100 万次，累计为用户节省超 1 亿元。..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1003/1192100.shtml">蔚来汽车第三季度交付12206辆汽车 同比增长154.3%</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0928/1190711.shtml">蔚来超过特斯拉完全没难度！李斌回应：总有一天会的</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0928/1190670.shtml">李斌称超越特斯拉没问题：蔚来离用户更近 更清楚用户需求</a>
+														<span class="source">
+																站长之家
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/weilai.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>蔚来</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/diandongqiche.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>电动汽车</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/weilaiqiche.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>蔚来汽车</a>
+													</div>
+													<div class="time" title="2020-10-05 16:32:20">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=蔚来 电动汽车 蔚来汽车 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1191466" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/0930/1191466.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201812100902065361_19.jpg" alt="淘宝短视频项目怎么玩？" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0930/1191466.shtml">
+															
+																淘宝短视频项目怎么玩？
+															
+														</a>
+													</h3>
+													<p class="desc">
+														我真正的核心技术是耐心、是不作恶、是细水长流，耐心是你对于一件事上的执着程度，绝世武功如何练起来的?..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0930/1191458.shtml">淘宝短视频发力？重视了一定是一个机会</a>
+														<span class="source">
+																老古董说互联网公众号
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0929/1190982.shtml">看不懂淘宝特价版，就像之前看不懂拼多多？</a>
+														<span class="source">
+																产品经理熊不知公众号
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0929/1191085.shtml">淘宝首页升级：猜你喜欢上移 焦点图下移改为竖版</a>
+														<span class="source">
+																站长之家
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/taobao.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>淘宝</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/taobaoduanshipin.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>淘宝短视频</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/duanshipindaihuo.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>短视频带货</a>
+													</div>
+													<div class="time" title="2020-10-05 16:18:45">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=淘宝 淘宝短视频 短视频带货 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192217" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1005/1192217.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201904080959254714_1.jpg" alt="阿里巴巴与DUFRY同意在中国组建合资企业 持股比例不超过9.99%" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192217.shtml">
+															
+																阿里巴巴与DUFRY同意在中国组建合资企业
+															
+														</a>
+													</h3>
+													<p class="desc">
+														今天阿里巴巴与DUFRY同意在中国组建合资企业，计划对其进行股权投资，建立合资企业后，阿里计划持有DUFRY不超过9.99%的股份。..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1001/1191921.shtml">传承计划执行完毕！马云即日起不再担任阿里巴巴董事</a>
+														<span class="source">
+																手机中国
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0930/1191723.shtml">阿里巴巴CFO武卫预计2021财年内阿里云实现盈利</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0930/1191687.shtml">阿里巴巴CEO张勇：为今天工作、为明天投资 为后天而孵化</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/alibaba.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>阿里巴巴</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/DUFRY.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>DUFRY</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/mianshuidian.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>免税店</a>
+													</div>
+													<div class="time" title="2020-10-05 14:18:02">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=阿里巴巴 DUFRY 免税店 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192211" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1005/1192211.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201907082355012039_3.jpg" alt="微信朋友圈可加话题标签了 网友：有微博那味了" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192211.shtml">
+															
+																微信朋友圈可加话题标签了 网友：有微博那味了
+															
+														</a>
+													</h3>
+													<p class="desc">
+														近日，iOS微信发布了v7.0.17 版本，新增了表情搜索、聊天记录不显示以及青少年模式等新功能。此外，微信这次更新还带来了朋友圈带话题、输入框搜索..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192200.shtml">微信支付国庆消费数据出炉：门票交易增幅超8成 酒店行业交易增幅超7成</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1004/1192164.shtml">微信这次的更新，有点意思！</a>
+														<span class="source">
+																唐韧公众号
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1004/1192120.shtml">微信公布朋友圈9月十大谣言 包括新型手机病毒出现等</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/weixin.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>微信</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/weixinpengyouquan.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>微信朋友圈</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/iOSweixin.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>iOS微信</a>
+													</div>
+													<div class="time" title="2020-10-05 13:26:25">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=微信 微信朋友圈 iOS微信 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192210" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1005/1192210.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/202001202045237249_1.jpg" alt="取代Win10 消息人士：Windows 10X将在明年推出" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192210.shtml">
+															
+																取代Win10 消息人士：Windows 10X将在明年推出
+															
+														</a>
+													</h3>
+													<p class="desc">
+														本月，微软发布Surface的新品(全新配置Surface Pro X、全新的Surface Laptop Go)后，偷偷做了一个小调整，直接从官网上删除了Surface Neo字样，这..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1002/1192012.shtml">微软详解新Edge为何基本不占用太多内存/CPU：保证用户体验</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1002/1191987.shtml">Windows 10X开发进度严重落后：微软无限推迟Surface Neo</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1002/1191984.shtml">微软的全球技能计划已经帮助1000万人学习新的数字技能</a>
+														<span class="source">
+																cnbeta
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/weiruan.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>微软</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/win10.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>win10</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/Windows10X.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>Windows10X</a>
+													</div>
+													<div class="time" title="2020-10-05 11:44:46">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=微软 win10 Windows10X ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192208" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1005/1192208.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201908301054372166_6.jpg" alt="iPad Air 4电源键集成Touch ID 苹果高管：“难以置信的壮举”" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192208.shtml">
+															
+																iPad Air 4电源键集成Touch ID 苹果高管：“难以置信的壮举
+															
+														</a>
+													</h3>
+													<p class="desc">
+														日前，两位苹果公司高管在播客节目当中讨论了iPad Air4 中发生的新变化，称iPad Air4 在电源按钮上集成Touch ID的设计是“难以置信的工程壮举”。..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1004/1192157.shtml">苹果iPhone 12全系售价泄露 最贵的接近1万元</a>
+														<span class="source">
+																站长之家
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1004/1192137.shtml">苹果悄然调整“带口罩的脸”Emoji：使其更具亲和力</a>
+														<span class="source">
+																cnbeta.com
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1004/1192122.shtml">苹果A14芯片GeekBench跑分曝光：单核1583分 多核4198分</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/iPad.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>iPad</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/iPadAir.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>iPadAir</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/pingguo.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>苹果</a>
+													</div>
+													<div class="time" title="2020-10-05 11:29:11">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=iPad iPadAir 苹果 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192206" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1005/1192206.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201911112251416413_4.jpg" alt="华为二季度全球智能手机市场份额第一 占比20%" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192206.shtml">
+															
+																华为二季度全球智能手机市场份额第一 占比20%
+															
+														</a>
+													</h3>
+													<p class="desc">
+														近日，调研机构Visual Captalist发布了 2020 第二季度科技产品最新市场份额数据。其中，国产手机厂商已经拿下全球半壁江山。具体到智能手机市场上..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1001/1191943.shtml">华为海思2021届博士招聘进行中 涉及多类芯片岗位</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1001/1191932.shtml">尴尬了：腾讯刚给员工发1万台华为Mate Xs 不少人已在闲鱼出售</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0930/1191798.shtml">华为Mate40手机首发66W快充 分析师：利好千亿充电器市场</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/huawei.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>华为</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/huaweishouji.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>华为手机</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/zhinengshouji.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>智能手机</a>
+													</div>
+													<div class="time" title="2020-10-05 10:54:41">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=华为 华为手机 智能手机 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192202" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1005/1192202.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201811190949374672_5.jpg" alt="英特尔与台积电再合作，将使用台积电3nm工艺" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192202.shtml">
+															
+																英特尔与台积电再合作，将使用台积电3nm工艺
+															
+														</a>
+													</h3>
+													<p class="desc">
+														据财联社报道，此前才合作过的台积电再次拿下英特尔订单，英特尔将使用台积电的3nm工艺。目前，尚未公开具体代工产品，不过据分析极有可能是下一代..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0929/1191116.shtml">外媒：台积电3nm工艺后三波产能将被高通英伟达等厂商预订</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0928/1190721.shtml">台积电预计极紫外光刻机累计采购量在明年将超过50台</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0928/1190627.shtml">台积电3nm工艺要获得Intel订单：未来月产能提升至10万片晶圆</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/yingteer.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>英特尔</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/taijidian.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>台积电</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/xinpian.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>芯片</a>
+													</div>
+													<div class="time" title="2020-10-05 10:09:15">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=英特尔 台积电 芯片 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192200" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1005/1192200.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201901071736146812_3.jpg" alt="微信支付国庆消费数据出炉：门票交易增幅超8成 酒店行业交易增幅超7成" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192200.shtml">
+															
+																微信支付国庆消费数据出炉：门票交易增幅超8成 
+															
+														</a>
+													</h3>
+													<p class="desc">
+														10月5日消息，微信支付公布国庆前3天消费数据，数据显示，10月1日-3日，国内旅游消费暴涨，景区和酒店行业微信支付交易额较五一增长83%和71%。下沉..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0923/1188237.shtml">苹果或10月13日发布iPhone12；微博关闭色情低俗类高粉丝账号147个；微信支付正计划加码存款市场</a>
+														<span class="source">
+																站长之家
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0922/1187817.shtml">狗不理包子王府井店重新开张 微信支付显示店名换了</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0907/1181426.shtml">微信支付亮相2020中国服贸会 推动中小微企业实现智慧经营</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/weixinzhifu.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>微信支付</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/menpiao.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>门票</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/jiudian.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>酒店</a>
+													</div>
+													<div class="time" title="2020-10-05 09:29:39">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=微信支付 门票 酒店 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192195" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1005/1192195.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/202002222214159321_2.jpg" alt="导航定位错误致景区严重拥堵 高德地图回应：已修复" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192195.shtml">
+															
+																导航定位错误致景区严重拥堵 高德地图回应：已修复
+															
+														</a>
+													</h3>
+													<p class="desc">
+														高德地图客户服务团队已对此做出回应，表示导航的到达点已经从原来的景区售票处优化至景区停车场处，目前数据已经调整完毕。..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1001/1191957.shtml">高德地图：10月1日活跃用户突破1亿 比去年同天提前3个多小时</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0929/1191409.shtml">高德地图上线“全境智能”系统，已在国内百城上线</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0924/1189217.shtml">高德地图上线iPhone版AR驾车导航：专治迷路司机</a>
+														<span class="source">
+																快科技
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/gaodeditu.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>高德地图</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/daohang.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>导航</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/dingwei.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>定位</a>
+													</div>
+													<div class="time" title="2020-10-05 09:08:49">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=高德地图 导航 定位 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192194" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1005/1192194.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201912262213258310_3.jpg" alt="特斯拉侧目！小鹏汽车推保价政策 老车主买贵就退钱" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1005/1192194.shtml">
+															
+																特斯拉侧目！小鹏汽车推保价政策 老车主买贵就退钱
+															
+														</a>
+													</h3>
+													<p class="desc">
+														前一段时间，特斯拉又进行了一个大动作，直接把国产Model3 标准续航升级版，补贴后售价降到了24. 99 万元，进入 25 万元以内。..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1003/1192098.shtml">身家大涨250亿，何小鹏悄悄做LP</a>
+														<span class="source">
+																投资界公众号
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0928/1190669.shtml">小鹏汽车获40亿元融资 将用于智造基地建设和购置设备等项目</a>
+														<span class="source">
+																TechWeb.com.cn
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0928/1190586.shtml">小鹏汽车宣布获得40亿元融资 广州智造基地今日奠基</a>
+														<span class="source">
+																站长之家
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/tesila.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>特斯拉</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/xiaopengqiche.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>小鹏汽车</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/diandongqiche.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>电动汽车</a>
+													</div>
+													<div class="time" title="2020-10-05 09:05:31">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=特斯拉 小鹏汽车 电动汽车 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+									
+									
+										<li data-contentid="1192169" class="single-mode">
+										
+											<div class="thumb">
+												<a href="https://www.chinaz.com/2020/1004/1192169.shtml" rel="noreferrer noopener" target="_blank"><img  webp="true"  class="lazy" data-original="https://pic.chinaz.com/picmap/thumb/201811151633431680_72.jpg" alt="中芯国际回应美国出口限制，正在评估影响" /></a>
+											</div>
+										
+											<div class="info">
+												<div class="info-limit">
+													<h3> 
+														<a target="_blank"   rel="noreferrer noopener"  href="https://www.chinaz.com/2020/1004/1192169.shtml">
+															
+																中芯国际回应美国出口限制，正在评估影响
+															
+														</a>
+													</h3>
+													<p class="desc">
+														10月4日，中芯国际在港交所发布公告称，公司知悉，对于向中芯国际出口的部分美国设备、配件及原物料会受到美国出口管制规定的进一步限制，正在评估..
+													</p>
+												</div>
+										
+												<div class="relate">
+												
+												 
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0927/1190387.shtml">中芯国际公告：未收到禁令 只提供民用产品和服务</a>
+														<span class="source">
+																手机中国
+															</span>
+													</div>
+														
+													<div class="relate-item">
+														<a target="_blank"  rel="noreferrer noopener"  href="https://www.chinaz.com/2020/0917/1186197.shtml">国际半导体协会警告特朗普，将中芯国际列入实体清单每年至少损失50亿美元</a>
+														<span class="source">
+																雷锋网
+															</span>
+													</div>
+												
+												
+	
+													
+												</div>
+										
+												<div class="meta">
+													<div class="tags">
+														<a target='_blank'  rel='noreferrer noopener'   href='/tags/zhongxinguoji.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>中芯国际</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/meiguojinling.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>美国禁令</a><a target='_blank'  rel='noreferrer noopener'   href='/tags/zhongxin.shtml'><i class='iconfont icon-community_ic_topic_black_'></i>中芯</a>
+													</div>
+													<div class="time" title="2020-10-04 21:05:05">
+										
+													</div>
+													<a class="search-topic"  rel="nofollow noopener noreferrer" target="_blank"   href="//so.chinaz.com/search.aspx?keyword=中芯国际 美国禁令 中芯 ">
+														更多话题<span></span>
+													</a>
+												</div>
+											</div>
+											
+												
+											
+										</li>
+											
+										
+										
+
+
+
+										</ul>
+
+
+
+									</div>
+
+								</div>
+
+
+							</div>
+
+							<!--cloumn-center end-->
+
+							<div class="cloumn cloumn-right">
+
+
+
+								<div class="cloumn-bd cloumn-bd__minp   section-media media-banner__auto">
+
+									<div id="setHomeHotFMedia"></div>
+										<!-- _cz_{"place":"home_right_hot_topfirst_media" , "id": "setHomeHotFMedia"} -->
+								</div>
+
+ 
+							
+
+								<div class="cloumn-bd   section hots-wrapper ">
+
+									<div class="section-title">
+
+										<h3>
+											<svg t="1584341114171" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1785" width="32" height="32"><path d="M504.576 976.32v-86.016H160V116.16h688.128v388.928h86.016V116.224A86.016 86.016 0 0 0 848.128 30.208H160.032a86.048 86.048 0 0 0-86.016 86.016v774.144a86.08 86.08 0 0 0 86.016 86.016H504.64l-0.064-0.064z" fill="#333333" p-id="1786"></path><path d="M246.048 460.192h344.064v86.016H246.048v-86.016z m0-215.04h516.064v86.016H246.048V245.152z m0 430.112h172.032v86.016H246.048v-86.016z" fill="#333333" p-id="1787"></path><path d="M764.736 770.848m-231.328 0a231.328 231.328 0 1 0 462.656 0 231.328 231.328 0 1 0-462.656 0Z" fill="#0066CC" p-id="1788"></path><path d="M713.152 658.656h48.96v118.528h-48.96z" fill="#0066CC" p-id="1789"></path><path d="M713.152 761.248h132v49.408h-132z" fill="#0066CC" p-id="1790"></path><path d="M764.736 770.848m-162.464 0a162.464 162.464 0 1 0 324.928 0 162.464 162.464 0 1 0-324.928 0Z" fill="#FFFFFF" p-id="1791"></path><path d="M685.312 863.168c-3.392 0-6.784 0-10.208-3.392-6.816-6.784-10.208-16.992-3.392-23.808l44.256-57.824c6.816-6.848 16.992-10.24 23.808-3.424l30.624 20.448 64.672-91.872c6.816-6.816 16.992-10.208 23.84-3.392 6.784 6.784 10.176 17.024 3.392 23.808l-71.488 105.504c-6.784 6.784-16.992 6.784-23.776 3.36l-34.048-20.384-34.016 44.224c-3.488 3.328-6.848 6.752-13.664 6.752z" fill="#0068CC" p-id="1792"></path><path d="M680.48 854.336c-3.392 0-6.784 0-10.208-3.392-6.816-6.784-10.208-16.992-3.392-23.808l44.256-57.824c6.816-6.848 16.992-10.24 23.808-3.424l30.624 20.448 64.672-91.872c6.816-6.816 16.992-10.208 23.84-3.392 6.784 6.784 10.176 17.024 3.392 23.808l-71.488 105.504c-6.784 6.784-16.992 6.784-23.776 3.36l-34.048-20.384-34.016 44.224c-3.488 3.36-6.848 6.752-13.664 6.752z" fill="#0068CC" p-id="1793"></path><path d="M877.344 784.064c-7.616 0-15.232-7.648-19.072-15.296l-15.232-57.12-53.344 15.264c-11.392 3.808-19.04 0-22.848-11.392-3.808-11.456 3.808-22.88 15.264-22.88l72.352-19.072c11.456-3.808 19.072 3.808 22.88 15.264l19.072 72.384c3.776 11.392-3.84 19.04-15.264 22.88h-3.808z" fill="#0068CC" p-id="1794"></path><path d="M877.344 773.664c-7.616 0-15.232-7.648-19.072-15.296l-15.232-57.12-53.344 15.264c-11.392 3.808-19.04 0-22.848-11.392-3.808-11.456 3.808-22.88 15.264-22.88l72.352-19.072c11.456-3.808 19.072 3.808 22.88 15.264l19.072 72.384c3.776 11.392-3.84 19.04-15.264 22.88h-3.808z" fill="#0068CC" p-id="1795"></path></svg>
+											热文
+										</h3>
+
+									</div>
+
+									<div class="tab">
+
+										<ul class="tab-hd two-tab clearfix">
+											<li class="select">3 天</li>
+											<li class="tab-hd-title">7天</li>
+										</ul>
+
+										<div class="tab-bd">
+
+											<div class="hots-wrapper__bd">
+												<ul>
+
+
+	<li>
+		<div class="title">
+			<div class="nums">
+				1
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/1004/1192157.shtml"  rel="noopener noreferrer"  target="_blank" title="苹果iPhone 12全系售价泄露 最贵的接近1万元">苹果iPhone 12全系售价泄露 最贵的接近1万元<span class="hotchange"  title="454611"></span></a></h4>
+		</div>
+	</li>
+	
+	<li>
+		<div class="title">
+			<div class="nums">
+				2
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/1003/1192057.shtml"  rel="noopener noreferrer"  target="_blank" title="火星伴月今日上演，晚上9点可直接观测到">火星伴月今日上演，晚上9点可直接观测到<span class="hotchange"  title="235522"></span></a></h4>
+		</div>
+	</li>
+	
+	<li>
+		<div class="title">
+			<div class="nums">
+				3
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/1003/1192066.shtml"  rel="noopener noreferrer"  target="_blank" title="《我和我的家乡》票房破6亿  《姜子牙》累计票房7. 21 亿">《我和我的家乡》票房破6亿  《姜子牙》累计票房7. 21 亿<span class="hotchange"  title="78733"></span></a></h4>
+		</div>
+	</li>
+	
+	<li>
+		<div class="title">
+			<div class="nums">
+				4
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/1003/1192060.shtml"  rel="noopener noreferrer"  target="_blank" title="螺蛳粉辣子鸡韭菜月饼畅销，成为中秋畅销口味">螺蛳粉辣子鸡韭菜月饼畅销，成为中秋畅销口味<span class="hotchange"  title="71044"></span></a></h4>
+		</div>
+	</li>
+	
+	<li>
+		<div class="title">
+			<div class="nums">
+				5
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/1004/1192167.shtml"  rel="noopener noreferrer"  target="_blank" title="国庆前3天全国旅游收入超2千亿元，接待游客3.16亿人次">国庆前3天全国旅游收入超2千亿元，接待游客3.16亿人次<span class="hotchange"  title="53155"></span></a></h4>
+		</div>
+	</li>
+	
+	<li>
+		<div class="title">
+			<div class="nums">
+				6
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/1003/1192094.shtml"  rel="noopener noreferrer"  target="_blank" title=" 《姜子牙》票房破亿，但口碑下滑豆瓣评分跌至7.1"> 《姜子牙》票房破亿，但口碑下滑豆瓣评分跌至7.1<span class="hotchange"  title="46066"></span></a></h4>
+		</div>
+	</li>
+	
+	<li>
+		<div class="title">
+			<div class="nums">
+				7
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/1004/1192161.shtml"  rel="noopener noreferrer"  target="_blank" title="上映三天票房仅600多万，木兰横空出世宣布退出国庆档">上映三天票房仅600多万，木兰横空出世宣布退出国庆档<span class="hotchange"  title="37477"></span></a></h4>
+		</div>
+	</li>
+	
+	<li>
+		<div class="title">
+			<div class="nums">
+				8
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/1003/1192051.shtml"  rel="noopener noreferrer"  target="_blank" title="微信正式上线青少年模式，摇一摇等功能不可使用">微信正式上线青少年模式，摇一摇等功能不可使用<span class="hotchange"  title="30188"></span></a></h4>
+		</div>
+	</li>
+	
+	<li>
+		<div class="title">
+			<div class="nums">
+				9
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/1003/1192083.shtml"  rel="noopener noreferrer"  target="_blank" title="难怪罗永浩直播前不公布商品价格：江湖险恶 商家可能会临时改价">难怪罗永浩直播前不公布商品价格：江湖险恶 商家可能会临时改价<span class="hotchange"  title="29699"></span></a></h4>
+		</div>
+	</li>
+	
+	<li>
+		<div class="title">
+			<div class="nums">
+				10
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/1003/1192049.shtml"  rel="noopener noreferrer"  target="_blank" title="苹果起诉回收公司违规转卖iPhone，数量超过10万部">苹果起诉回收公司违规转卖iPhone，数量超过10万部<span class="hotchange"  title="2691010"></span></a></h4>
+		</div>
+	</li>
+	
+
+</ul><!--# 新版首页-2020 排行榜-3天 #-->
+											</div>
+
+											<div class="hots-wrapper__bd">
+												<ul>
+
+
+	<li>
+		<div class="title">
+			<div class="nums">
+				1
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/0930/1191559.shtml"  rel="noopener noreferrer" target="_blank" title="富士康取消假期加班生产iPhone12？官方：消息不实">富士康取消假期加班生产iPhone12？官方：消息不实<span class="hotchange"  title="466411"></span></a></h4>
+		</div>
+	</li>
+
+	<li>
+		<div class="title">
+			<div class="nums">
+				2
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/1004/1192157.shtml"  rel="noopener noreferrer" target="_blank" title="苹果iPhone 12全系售价泄露 最贵的接近1万元">苹果iPhone 12全系售价泄露 最贵的接近1万元<span class="hotchange"  title="454622"></span></a></h4>
+		</div>
+	</li>
+
+	<li>
+		<div class="title">
+			<div class="nums">
+				3
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/0930/1191447.shtml"  rel="noopener noreferrer" target="_blank" title="韵达回应数千只宠物滞留物流园死亡：他人假冒韵达所为">韵达回应数千只宠物滞留物流园死亡：他人假冒韵达所为<span class="hotchange"  title="125033"></span></a></h4>
+		</div>
+	</li>
+
+	<li>
+		<div class="title">
+			<div class="nums">
+				4
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/0930/1191432.shtml"  rel="noopener noreferrer" target="_blank" title="iPhone12mini没有5G 其他3款iPhone12均为5G版本">iPhone12mini没有5G 其他3款iPhone12均为5G版本<span class="hotchange"  title="100344"></span></a></h4>
+		</div>
+	</li>
+
+	<li>
+		<div class="title">
+			<div class="nums">
+				5
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/0930/1191429.shtml"  rel="noopener noreferrer" target="_blank" title="搜狗签订最终私有化协议；iPhone12mini没有5G；网络游戏四大问题消费者投诉最多">搜狗签订最终私有化协议；iPhone12mini没有5G；网络游戏四大问<span class="hotchange"  title="84555"></span></a></h4>
+		</div>
+	</li>
+
+	<li>
+		<div class="title">
+			<div class="nums">
+				6
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/0930/1191703.shtml"  rel="noopener noreferrer" target="_blank" title="刷手支付上线！亚马逊试用刷手支付Amazon One">刷手支付上线！亚马逊试用刷手支付Amazon One<span class="hotchange"  title="70766"></span></a></h4>
+		</div>
+	</li>
+
+	<li>
+		<div class="title">
+			<div class="nums">
+				7
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/0930/1191780.shtml"  rel="noopener noreferrer" target="_blank" title="网易云音乐申请网愈云商标 此前推出云村评论治愈计划">网易云音乐申请网愈云商标 此前推出云村评论治愈计划<span class="hotchange"  title="59677"></span></a></h4>
+		</div>
+	</li>
+
+	<li>
+		<div class="title">
+			<div class="nums">
+				8
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/0930/1191817.shtml"  rel="noopener noreferrer" target="_blank" title="滴滴崩了 官方回应：技术故障已修复 给大家添堵了">滴滴崩了 官方回应：技术故障已修复 给大家添堵了<span class="hotchange"  title="48488"></span></a></h4>
+		</div>
+	</li>
+
+	<li>
+		<div class="title">
+			<div class="nums">
+				9
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/0930/1191643.shtml"  rel="noopener noreferrer" target="_blank" title="百度宣布旗下小度科技获独立融资 估值达约200亿元">百度宣布旗下小度科技获独立融资 估值达约200亿元<span class="hotchange"  title="46699"></span></a></h4>
+		</div>
+	</li>
+
+	<li>
+		<div class="title">
+			<div class="nums">
+				10
+			</div>
+			<h4><a  href="https://www.chinaz.com/2020/0930/1191650.shtml"  rel="noopener noreferrer" target="_blank" title="腾讯地图上线聚合打车服务 滴滴、首汽约车等平台已接入">腾讯地图上线聚合打车服务 滴滴、首汽约车等平台已接入<span class="hotchange"  title="4531010"></span></a></h4>
+		</div>
+	</li>
+
+
+</ul><!--# 新版首页-2020 排行榜-7天 #-->
+											</div>
+
+										</div>
+
+									</div>
+
+								</div>
+
+								<!--hots end-->
+								
+									<div class="cloumn-bd cloumn-bd__minp  section-media media-banner_auto">
+									<div id="setHomeHotSMedia"></div>
+									<!-- _cz_{"place":"home_right_hot_topsecond_media" , "id": "setHomeHotSMedia"} -->
+								</div>
+
+
+
+								<div class="cloumn-bd   section down-wrapper ">
+
+									<div class="section-title">
+
+										<h3>
+										<svg t="1584342055910" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="22298" width="32" height="32"><path d="M504.576 976.32v-86.016H160V116.16h688.128v388.928h86.016V116.224A86.016 86.016 0 0 0 848.128 30.208H160.032a86.048 86.048 0 0 0-86.016 86.016v774.144a86.08 86.08 0 0 0 86.016 86.016H504.64l-0.064-0.064z" fill="#333333" p-id="22299"></path><path d="M246.048 460.192h344.064v86.016H246.048v-86.016z m0-215.04h516.064v86.016H246.048V245.152z m0 430.112h172.032v86.016H246.048v-86.016z" fill="#333333" p-id="22300"></path><path d="M764.736 770.848m-231.328 0a231.328 231.328 0 1 0 462.656 0 231.328 231.328 0 1 0-462.656 0Z" fill="#0066CC" p-id="22301"></path><path d="M713.152 658.656h48.96v118.528h-48.96z" fill="#0066CC" p-id="22302"></path><path d="M713.152 761.248h132v49.408h-132z" fill="#0066CC" p-id="22303"></path><path d="M685.312 863.168c-3.392 0-6.784 0-10.208-3.392-6.816-6.784-10.208-16.992-3.392-23.808l44.256-57.824c6.816-6.848 16.992-10.24 23.808-3.424l30.624 20.448 64.672-91.872c6.816-6.816 16.992-10.208 23.84-3.392 6.784 6.784 10.176 17.024 3.392 23.808l-71.488 105.504c-6.784 6.784-16.992 6.784-23.776 3.36l-34.048-20.384-34.016 44.224c-3.488 3.328-6.848 6.752-13.664 6.752z" fill="#0068CC" p-id="22304"></path><path d="M610.112 767.904c14.496 7.2 26.304 12.736 37.856 18.656a17.824 17.824 0 0 1 10.24 24.64 17.248 17.248 0 0 1-25.696 9.088c-25.44-11.968-51.168-23.36-76.096-36.416a23.68 23.68 0 0 1-11.712-17.216 26.272 26.272 0 0 1 12.032-18.912c25.28-12.256 51.36-22.784 77.44-33.28a18.112 18.112 0 0 1 25.728 10.368 19.328 19.328 0 0 1-9.952 25.408l-1.536 0.608c-11.68 5.728-23.744 10.592-38.304 17.056z m302.528-1.28c-15.264-6.624-26.912-11.328-38.272-16.576a18.4 18.4 0 0 1-11.104-24.384 17.344 17.344 0 0 1 24.96-11.392c26.944 11.008 54.016 22.048 80.352 34.624a17.44 17.44 0 0 1 0.704 32.128c-26.688 14.432-54.112 27.36-82.24 38.848a23.456 23.456 0 0 1-21.44-9.888 26.144 26.144 0 0 1 7.648-22.944 231.36 231.36 0 0 1 39.36-20.32l0.032-0.096z m-113.056-81.44c-1.792 8-2.304 11.52-3.36 14.88-12.288 38.656-24.608 77.28-36.928 115.84-4.16 12.896-10.912 23.84-25.792 18.624-14.88-5.184-13.792-17.536-9.536-30.688 12.64-39.104 24.704-78.368 37.088-117.568a17.76 17.76 0 0 1 22.752-15.424c6.144 3.584 11.488 8.48 15.648 14.272l0.128 0.064z" fill="#FFFFFF" p-id="22305"></path></svg>
+											源码下载
+										</h3>
+
+									</div>
+
+									<div class="down-wrapper__bd--slide">
+										<div class="slideshow" id="slideshow">
+											<!-- 源码幻灯片 -->
+											<script type="text/javascript" src="//stats.chinaz.com/zx_g/code.js"></script>
+										</div>
+									</div>
+
+									<div class="tab">
+
+										<ul class="tab-hd four-tab clearfix">
+											<li class="select">ASP</li>
+											<li class="tab-hd-title">PHP</li>
+											<li class="tab-hd-title">NET</li>
+											<li class="tab-hd-title">软件</li>
+										</ul>
+
+										<div class="tab-bd">
+
+											<div class="down-wrapper__bd">
+
+												<ul>
+
+
+			    
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/25_1.htm" target="_blank">[新闻文章]</a>
+                          <a href="http://down.chinaz.com/soft/38008.htm" title="天人文章管理系统(带手机版) v5.5 UTF8" target="_blank">天人文章管理系统(带手机版) v5.5 UTF8</a>
+			  </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/32_1.htm" target="_blank">[其它类别]</a>
+                          <a href="http://down.chinaz.com/soft/38567.htm" title="校无忧通讯录管理系统 v1.8" target="_blank">校无忧通讯录管理系统 v1.8</a>
+			  </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/190_1.htm" target="_blank">[CMS建站]</a>
+                          <a href="http://down.chinaz.com/soft/39002.htm" title="响应式图文资料列表系统(带手机) v5.51" target="_blank">响应式图文资料列表系统(带手机) v5.51</a>
+			  </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/198_1.htm" target="_blank">[整站栏目]</a>
+                          <a href="http://down.chinaz.com/soft/39053.htm" title="清爽娱乐网源码 v5.47" target="_blank">清爽娱乐网源码 v5.47</a>
+			  </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/190_1.htm" target="_blank">[CMS建站]</a>
+                          <a href="http://down.chinaz.com/soft/38696.htm" title="宽屏首页列表翻页教程网(带手机) v5.51" target="_blank">宽屏首页列表翻页教程网(带手机) v5.51</a>
+			  </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/25_1.htm" target="_blank">[新闻文章]</a>
+                          <a href="http://down.chinaz.com/soft/37992.htm" title="天人文章管理系统(带手机版) v5.51 GB2312" target="_blank">天人文章管理系统(带手机版) v5.51 GB2312</a>
+			  </li>
+                        
+                 
+
+												</ul>
+
+											</div>
+
+											<div class="down-wrapper__bd">
+
+												<ul>
+
+			    
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/209_1.htm" target="_blank">[企业网站]</a>
+                           <a href="http://down.chinaz.com/soft/39429.htm" title="万通CMS企业网站系统 v2.4.0" target="_blank">万通CMS企业网站系统 v2.4.0</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/60_1.htm" target="_blank">[搜索链接]</a>
+                           <a href="http://down.chinaz.com/soft/39533.htm" title="国际网址导航系统 v3.6" target="_blank">国际网址导航系统 v3.6</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/203_1.htm" target="_blank">[CMS建站]</a>
+                           <a href="http://down.chinaz.com/soft/39651.htm" title="dmandwp系统 v2020.9.30" target="_blank">dmandwp系统 v2020.9.30</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/209_1.htm" target="_blank">[企业网站]</a>
+                           <a href="http://down.chinaz.com/soft/39542.htm" title="HulaCWMS呼啦企业网站管理系统 v2.0.5.1" target="_blank">HulaCWMS呼啦企业网站管理系统 v2.0.5.1</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/53_1.htm" target="_blank">[社区论坛]</a>
+                           <a href="http://down.chinaz.com/soft/37481.htm" title="HadSky轻论坛 v7.3.9" target="_blank">HadSky轻论坛 v7.3.9</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/66_1.htm" target="_blank">[其它类别]</a>
+                           <a href="http://down.chinaz.com/soft/39218.htm" title="QueryPHP渐进式PHP常驻框架引擎 v1.0.1" target="_blank">QueryPHP渐进式PHP常驻框架引擎 v1.0.1</a>
+			   </li>
+                        
+                 
+
+												</ul>
+
+											</div>
+
+											<div class="down-wrapper__bd">
+
+												<ul>
+
+			    
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/216_1.htm" target="_blank">[企业政府]</a>
+                           <a href="http://down.chinaz.com/soft/37428.htm" title="可视化流程引擎RoadFlowCore v2.11" target="_blank">可视化流程引擎RoadFlowCore v2.11</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/33_1.htm" target="_blank">[聊天室类]</a>
+                           <a href="http://down.chinaz.com/soft/35517.htm" title="GGTalk(QQ高仿)源码 v7.0" target="_blank">GGTalk(QQ高仿)源码 v7.0</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/216_1.htm" target="_blank">[企业政府]</a>
+                           <a href="http://down.chinaz.com/soft/36758.htm" title="千博二手车网站系统 v2020 Build0928" target="_blank">千博二手车网站系统 v2020 Build0928</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/216_1.htm" target="_blank">[企业政府]</a>
+                           <a href="http://down.chinaz.com/soft/31323.htm" title="千博政府网站管理系统 v2020 Build0928" target="_blank">千博政府网站管理系统 v2020 Build0928</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/50_1.htm" target="_blank">[其它类别]</a>
+                           <a href="http://down.chinaz.com/soft/39017.htm" title="asp.net快速开发框架(eFrameWork) v3.0.5" target="_blank">asp.net快速开发框架(eFrameWork) v3.0.5</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/213_1.htm" target="_blank">[CMS建站]</a>
+                           <a href="http://down.chinaz.com/soft/39333.htm" title="EKECMS网站管理系统(电脑端+手机端) v2.1.4" target="_blank">EKECMS网站管理系统(电脑端+手机端) v2.1.4</a>
+			   </li>
+                        
+                 
+
+												</ul>
+
+											</div>
+
+											<div class="down-wrapper__bd">
+
+												<ul>
+
+			    
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/135_1.htm" target="_blank">[办公软件]</a>
+                           <a href="http://down.chinaz.com/soft/39652.htm" title="报表一条龙EXCEL专用版 v2.3.0.0" target="_blank">报表一条龙EXCEL专用版 v2.3.0.0</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/137_1.htm" target="_blank">[开发编程]</a>
+                           <a href="http://down.chinaz.com/soft/40837.htm" title="大漠后台测试工具 v1.8" target="_blank">大漠后台测试工具 v1.8</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/137_1.htm" target="_blank">[开发编程]</a>
+                           <a href="http://down.chinaz.com/soft/40836.htm" title="星云测试Wings测试驱动自动生成工具 v2.0" target="_blank">星云测试Wings测试驱动自动生成工具 v2.0</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/137_1.htm" target="_blank">[开发编程]</a>
+                           <a href="http://down.chinaz.com/soft/40841.htm" title="LiteBeeGo(无人机编程软件) v0.9.5" target="_blank">LiteBeeGo(无人机编程软件) v0.9.5</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/179_1.htm" target="_blank">[域名&IP]</a>
+                           <a href="http://down.chinaz.com/soft/41175.htm" title="IP Changer(IP快速更改软件) v1.0" target="_blank">IP Changer(IP快速更改软件) v1.0</a>
+			   </li>
+                        
+                <li><i></i><a href="http://down.chinaz.com/class/120_1.htm" target="_blank">[聊天联络]</a>
+                           <a href="http://down.chinaz.com/soft/41174.htm" title="Zoom Cloud Meetings视频会议软件 v5.2.45120.906" target="_blank">Zoom Cloud Meetings视频会议软件 v5.2.45120.906</a>
+			   </li>
+                        
+                 
+
+												</ul>
+
+											</div>
+
+										</div>
+									</div><!--# 新版首页-2020 源码栏目调用 #-->
+									<!--tab end-->
+
+								</div>
+
+								<!--down end-->
+
+								<div class="cloumn-bd   section sc-wrapper ">
+
+									<div class="section-title">
+
+										<h3>
+										<svg t="1584342039731" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="22009" width="32" height="32"><path d="M504.576 976.32v-86.016H160V116.16h688.128v388.928h86.016V116.224A86.016 86.016 0 0 0 848.128 30.208H160.032a86.048 86.048 0 0 0-86.016 86.016v774.144a86.08 86.08 0 0 0 86.016 86.016H504.64l-0.064-0.064z" fill="#333333" p-id="22010"></path><path d="M246.048 460.192h344.064v86.016H246.048v-86.016z m0-215.04h516.064v86.016H246.048V245.152z m0 430.112h172.032v86.016H246.048v-86.016z" fill="#333333" p-id="22011"></path><path d="M771.936 770.848m-231.328 0a231.328 231.328 0 1 0 462.656 0 231.328 231.328 0 1 0-462.656 0Z" fill="#0066CC" p-id="22012"></path><path d="M713.152 658.656h48.96v118.528h-48.96z" fill="#0066CC" p-id="22013"></path><path d="M713.152 761.248h132v49.408h-132z" fill="#0066CC" p-id="22014"></path><path d="M685.312 863.168c-3.392 0-6.784 0-10.208-3.392-6.816-6.784-10.208-16.992-3.392-23.808l44.256-57.824c6.816-6.848 16.992-10.24 23.808-3.424l30.624 20.448 64.672-91.872c6.816-6.816 16.992-10.208 23.84-3.392 6.784 6.784 10.176 17.024 3.392 23.808l-71.488 105.504c-6.784 6.784-16.992 6.784-23.776 3.36l-34.048-20.384-34.016 44.224c-3.488 3.328-6.848 6.752-13.664 6.752z" fill="#0068CC" p-id="22015"></path><path d="M837.504 752.128a28.224 28.224 0 0 0 24.8-42.368 28.064 28.064 0 0 0-52.352 14.208c0 15.36 12.224 27.84 27.552 28.16z m49.184-93.728h-229.504a16.448 16.448 0 0 0-16.384 16.608v191.712c0 9.12 7.264 16.576 16.384 16.576h229.504a16.448 16.448 0 0 0 16.384-16.576v-191.712a16.48 16.48 0 0 0-16.384-16.608z m-60.384 115.776a9.92 9.92 0 0 0-7.488-3.616c-2.944 0-5.056 1.376-7.488 3.328l-10.944 9.248c-2.24 1.632-4.064 2.752-6.688 2.752a9.92 9.92 0 0 1-6.496-2.4l-2.496-2.4-31.424-34.08a13.056 13.056 0 0 0-19.648 0.192l-74.048 89.344v-152.544a7.68 7.68 0 0 1 7.616-6.848h209.44c4 0 7.328 2.976 7.552 7.04l0.128 152.48-58.016-62.496z" fill="#FFFFFF" p-id="22016"></path></svg>
+											素材下载
+										</h3>
+
+									</div>
+
+										<div class="sc-wrapper__bd">
+
+										<div class="sc-topbanner">
+											<a href="http://font.chinaz.com/shangye.html" target="_blank"><img src="https://img.chinaz.com/images/1551.jpg" width="300"></a>
+										</div>
+
+										<div class="sc-recommond clearfix">
+											<ul class="fl">
+												<li><i></i>
+													<a href="http://sc.chinaz.com/tupian/rentiyishu.html" target="_blank" style="color:#cc0000;">欧美人体写真图片</a>
+												</li>
+												<li><i></i>
+													<a href="http://sc.chinaz.com/tupian/keaitupian.html" target="_blank" style="color:#cc0000;">可爱图片免费下载</a>
+												</li>
+												<li><i></i>
+													<a href="http://sc.chinaz.com/ppt/pptbeijing.html" target="_blank">PPT背景图片下载</a>
+												</li>
+												<li><i></i>
+													<a href="http://sc.chinaz.com/tupian/rentiyishu.html" target="_blank">人体艺术图片下载</a>
+												</li>
+												<li><i></i>
+													<a href="http://font.chinaz.com/maobiziti.html" target="_blank">毛笔字体免费下载</a>
+												</li>
+												<li><i></i>
+													<a href="http://font.chinaz.com/200331045860.htm" target="_blank">Aa精品字体打包下载</a>
+												</li>
+											</ul>
+											<ul class="fr">
+												<li><i></i>
+													<a href="http://font.chinaz.com/171108141211.htm" target="_blank">默陌手写系列打包</a>
+												</li>
+												<li><i></i>
+													<a href="http://sc.chinaz.com/jianli/fengmian.html" target="_blank" style="color:#cc0000;">个人简历封面下载</a>
+												</li>
+												<li><i></i>
+													<a href="http://font.chinaz.com/hanyiziti.html" target="_blank">汉仪字体打包下载</a>
+												</li>
+												<li><i></i>
+													<a href="http://sc.chinaz.com/tupian/rentiyishu.html" target="_blank">性感人体摄影图片</a>
+												</li>
+												<li><i></i>
+													<a href="http://font.chinaz.com/maotiziti.html" target="_blank" style="color:#cc0000;">毛体字体免费下载</a>
+												</li>
+												<li><i></i>
+													<a href="http://sc.chinaz.com/jianli/biaoge.html" target="_blank" style="color:#cc0000;">个人简历表格下载</a>
+												</li>
+											</ul>
+										</div>
+
+										<div class="sc-tags">
+											<a href="http://sc.chinaz.com/ppt/" target="_blank">PPT模板下载</a>
+											<a href="http://sc.chinaz.com/shiliang/" target="_blank">矢量图</a>
+											<a href="http://sc.chinaz.com/tag_moban/HTML5.html" target="_blank">HTML5模板</a>
+											<a href="http://sc.chinaz.com/ppt/" target="_blank">PPT</a>
+											<a href="http://sc.chinaz.com/tupian/beijingtupian.html" target="_blank">背景图片</a>
+											<a href="http://sc.chinaz.com/jianli/" target="_blank">简历模板</a>
+											<a href="http://font.chinaz.com" target="_blank">字体</a>
+											<a href="http://sc.chinaz.com/psd/" target="_blank">PSD素材</a>
+											<a href="http://sc.chinaz.com/tupian/feizhuliutupian.html" target="_blank">非主流图片</a>
+											<a href="http://sc.chinaz.com/yinxiao/" target="_blank">音效素材</a>
+											<a href="http://sc.chinaz.com/moban/" target="_blank">网站模板</a>
+											<a href="http://sc.chinaz.com/ppt/" target="_blank">PPT模板</a>
+											<a href="http://sc.chinaz.com/html/tubiao/" target="_blank">图标</a>
+											<a href="http://sc.chinaz.com/jianli/" target="_blank">个人简历模板</a>
+											<a href="http://font.chinaz.com" target="_blank">字体设计</a>
+											<a href="http://sc.chinaz.com/tupian/xixirenti.html" target="_blank">西西图片</a>
+											<a href="http://sc.chinaz.com/yinxiao/" target="_blank">音效</a>
+											<a href="http://sc.chinaz.com/tupian/weimeiyijingtupian.html" target="_blank">唯美图片</a>
+											<a href="http://sc.chinaz.com/donghua/" target="_blank">flash动画素材</a>
+											<a href="http://sc.chinaz.com/jiaoben/" target="_blank">jQuery代码</a>
+											<a href="http://sc.chinaz.com/tubiao/" target="_blank">桌面图标</a>
+											<a href="http://sc.chinaz.com/" target="_blank">素材网</a>
+											<a href="http://sc.chinaz.com/tag_moban/CSS3.html" target="_blank">CSS3模板</a>
+											<a href="http://sc.chinaz.com/ppt/jiaocheng.html" target="_blank">PPT教程</a>
+										</div>
+
+										<a href="http://sc.chinaz.com/" rel="nofollow noreferrer" target="_blank" class="sc-tags__more">查看更多</a>
+
+									</div><!--# 新版首页-2020 素材栏目调用 #-->
+								</div>
+
+								<!--sc end-->
+
+
+								<div class="cloumn-bd cloumn-bd__minp section-media media-banner_auto">
+
+									<div id="setHomeRankTMedia"></div>
+									<!-- _cz_{"place":"home_right_rank_top_media" , "id": "setHomeRankTMedia"} -->
+
+									
+								</div>
+
+								<div class="cloumn-bd   section topsite-wrapper ">
+
+									<div class="section-title">
+
+										<h3>
+											<svg t="1584342080631" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="22438" width="32" height="32"><path d="M504.576 976.32v-86.016H160V116.16h688.128v388.928h86.016V116.224A86.016 86.016 0 0 0 848.128 30.208H160.032a86.048 86.048 0 0 0-86.016 86.016v774.144a86.08 86.08 0 0 0 86.016 86.016H504.64l-0.064-0.064z" fill="#333333" p-id="22439"></path><path d="M246.048 460.192h344.064v86.016H246.048v-86.016z m0-215.04h516.064v86.016H246.048V245.152z m0 430.112h172.032v86.016H246.048v-86.016z" fill="#333333" p-id="22440"></path><path d="M740.832 554.752a221.12 221.12 0 0 0-221.216 221.184 221.152 221.152 0 0 0 221.216 221.216 221.152 221.152 0 0 0 221.184-221.216 221.12 221.12 0 0 0-221.184-221.184zM680 879.36h-49.792v-143.264h49.792v143.264z m85.728 0h-49.824v-206.272h49.824v206.272z m85.696 0h-49.792v-99.008h49.792v99.008z" fill="#0069CB" p-id="22441"></path></svg>
+											排行榜
+										</h3>
+
+									</div>
+
+									<div class="topsite-wrapper__bd clearfix">
+
+										<ul>
+											
+<li><em class="arry"></em><a target="_blank"   rel="noopener noreferrer" href="https://top.chinaz.com/all/   ">中文网站排名</a></li>
+
+<li><em class="arry"></em><a target="_blank"   rel="noopener noreferrer" href="https://top.chinaz.com/all/index_wap.html">移动网站排名</a></li>
+
+<li><em class="arry"></em><a target="_blank"   rel="noopener noreferrer" href="https://alexa.chinaz.com/Global/index.html">世界网站Alexa排名</a></li>
+
+<li><em class="arry"></em><a target="_blank"   rel="noopener noreferrer" href="https://alexa.chinaz.com/Country/index_CN.html">中文网站Alexa排名</a></li>
+
+<li><em class="arry"></em><a target="_blank"   rel="noopener noreferrer" href="https://top.chinaz.com/all/index_br.html">百度权重排名</a></li>
+
+<li><em class="arry"></em><a target="_blank"   rel="noopener noreferrer" href="https://top.chinaz.com/all/index_pr.html">中文网站PR排名</a></li>
+
+<li><em class="arry"></em><a target="_blank"   rel="noopener noreferrer" href="https://top.chinaz.com/hangye/">行业排名</a></li>
+
+<li><em class="arry"></em><a target="_blank"   rel="noopener noreferrer" href="https://top.chinaz.com/diqu/">地区网站排名</a></li>
+
+<li><em class="arry"></em><a target="_blank"   rel="noopener noreferrer" href="https://top.chinaz.com/gongsi/">公司排行榜</a></li>
+
+<li><em class="arry"></em><a target="_blank"   rel="noopener noreferrer" href="https://live.chinaz.com/">直播排行榜</a></li>
+
+<li><em class="arry"></em><a target="_blank"   rel="noopener noreferrer" href="https://aso.chinaz.com/appstore.html">App Store榜 </a></li>
+
+<li><em class="arry"></em><a target="_blank"   rel="noopener noreferrer" href="https://aso.chinaz.com/android.html">安卓应用榜</a></li>
+<!--# 新版首页-2020 网站排行榜 #-->
+										</ul>
+
+									</div>
+
+								</div>
+
+								<!--toprank end-->
+
+								<div class="cloumn-bd    section topsite-wrapper ">
+
+									<div class="section-title">
+
+										<h3>
+											<svg t="1584342019620" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="21724" width="32" height="32"><path d="M504.576 976.32v-86.016H160V116.16h688.128v388.928h86.016V116.224A86.016 86.016 0 0 0 848.128 30.208H160.032a86.048 86.048 0 0 0-86.016 86.016v774.144a86.08 86.08 0 0 0 86.016 86.016H504.64l-0.064-0.064z" fill="#333333" p-id="21725"></path><path d="M246.048 460.192h344.064v86.016H246.048v-86.016z m0-215.04h516.064v86.016H246.048V245.152z m0 430.112h172.032v86.016H246.048v-86.016z" fill="#333333" p-id="21726"></path><path d="M758.624 527.616a233.344 233.344 0 1 0 0 466.72 233.344 233.344 0 0 0 0-466.72z m-129.6 363.04a129.472 129.472 0 0 1 82.08-120.384 77.184 77.184 0 0 1-30.208-61.12 77.76 77.76 0 1 1 155.584 0c0 24.896-11.968 46.848-30.176 61.12a129.504 129.504 0 0 1 82.08 120.384h-259.36z" fill="#0069CB" p-id="21727"></path></svg>
+											自媒体大数据
+										</h3>
+
+									</div>
+
+									<div class="topsite-wrapper__bd clearfix">
+
+										<ul>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-toprank-catid-232-drid-0-author-all-page-1.html"
+            title="美食领域"  rel="noreferrer noreferrer"   target="_blank">美食领域</a>
+    </li>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-toprank-catid-233-drid-0-author-all-page-1.html"
+            title="娱乐领域"  rel="noreferrer noreferrer"   target="_blank">娱乐领域</a>
+    </li>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-toprank-catid-238-drid-0-author-all-page-1.html"
+            title="游戏领域"   rel="noreferrer noreferrer"  target="_blank">游戏领域</a>
+    </li>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-toprank-catid-243-drid-0-author-all-page-1.html"
+            title="健康养生领域"  rel="noreferrer noreferrer"  target="_blank">健康养生领域</a>
+    </li>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-toprank-catid-247-drid-0-author-all-page-1.html"
+            title="母婴育儿领域"  rel="noreferrer noreferrer"   target="_blank">母婴育儿领域</a>
+    </li>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-topfans-catid-246-drid-0-author-all-page-1.html"
+            title="汽车领域"  rel="noreferrer noreferrer"   target="_blank">汽车领域</a>
+    </li>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-topfans-catid-254-drid-0-author-all-page-1.html"
+            title="星座运势领域"  rel="noreferrer noreferrer"  target="_blank">星座运势领域</a>
+    </li>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-topfans-catid-248-drid-0-author-all-page-1.html"
+            title="时尚领域"  rel="noreferrer noreferrer"  target="_blank">时尚领域</a>
+    </li>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-topfans-catid-243-drid-0-author-all-page-1.html"
+            title="健康养生领域"  rel="noreferrer noreferrer"  target="_blank">健康养生领域</a>
+    </li>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-topfans-catid-256-drid-0-author-all-page-1.html"
+            title="军事领域"  rel="noreferrer noreferrer"   target="_blank">军事领域</a>
+    </li>
+
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-toprank-catid-0-drid-20-author-all-page-1.html"
+            title="美妆达人"   rel="noreferrer noreferrer"  target="_blank">美妆达人</a>
+    </li>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-toprank-catid-0-drid-1-author-all-page-1.html"
+            title="娱乐达人"   rel="noreferrer noreferrer"  target="_blank">娱乐达人</a>
+    </li>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-toprank-catid-0-drid-2-author-all-page-1.html"
+            title="体育达人"  rel="noreferrer noreferrer"   target="_blank">体育达人</a>
+    </li>
+    <li><em class="arry"></em>
+        <a href="//bd.chinaz.com/rank-mutile-toprank-catid-0-drid-9-author-all-page-1.html"
+            title="情感达人"   rel="noreferrer noreferrer"  target="_blank">情感达人</a>
+    </li>
+</ul>
+    <a style="margin-top: 20px;" href="https://bd.chinaz.com/"  rel="noreferrer noreferrer"  target="_blank" class="sc-tags__more">查看更多</a>   <!--# 新版首页-2020 自媒体大数据 #-->
+
+									</div>
+
+
+								</div>
+
+
+								<div class="cloumn-bd section-media media-banner_auto mediaBox" style="width:340px;">
+									<div id="setHomeFixedMedia"></div>
+									<!-- _cz_{"place":"home_right_fixed_media" , "id": "setHomeFixedMedia"} -->
+									
+								</div>
+
+
+							</div>
+
+							<!--cloum-right end-->
+						</div>
+
+					</div>
+
+
+
+				</div>
+				<!--main-wrapper end-->
+				</div>
+				<div class="footer-wrapper">
+	<div class="footer-top">
+		<div class="block-container">
+			<div class="block-inner">
+
+				<div class="company-card clearfix" id="Flip">
+
+					<div class="company-card__item">
+						<div class="front">
+						<a href="http://wpa.qq.com/msgrd?v=3&uin=100789573&site=qq&menu=ye"  target="_blank" rel="nofollow noreferrer">
+							<i class="iconfont icon-banquan"></i>
+							<p>版权合作</p>
+						</a>
+						</div>
+						<!--<div class="back">
+							<a href="" class="link-btn" target="_blank" rel="nofollow noreferrer">
+								<p><i class="iconfont icon-QQ"></i></p>
+								<span>
+									联系
+								</span>
+							</a>
+						</div>-->
+
+					</div>
+
+					<div class="company-card__item">
+						<div class="front">
+							<a href="http://mt.chinaz.com"  target="_blank" rel="nofollow noreferrer">
+								<i class="iconfont icon-tougaoshenhe"></i>
+								<p>品牌推广</p>
+							</a>
+						</div>
+					</div>
+
+					<div class="company-card__item">
+						<div class="front">
+						<a href="//www.chinaz.com/aboutus/qq.html"  target="_blank" rel="nofollow noreferrer">
+							<i class="iconfont icon-huaban"></i>
+							<p>商务合作</p>
+						</a>
+						</div>
+						 
+
+					</div>
+
+					<div class="company-card__item">
+						<div class="front">
+						<a href="//www.chinaz.com/aboutus/ad.html"  target="_blank" rel="nofollow noreferrer">
+							<i class="iconfont icon-ad"></i>
+							<p>广告投放</p>
+						</a>
+						</div>
+
+					</div>
+
+					<div class="company-card__item">
+						<div class="front">
+						<a href="http://sc.chinaz.com"  target="_blank" rel="nofollow noreferrer">
+							<i class="iconfont icon-goumai"></i>
+							<p>素材交易</p>
+						</a>
+						</div>
+
+					</div>
+
+					<div class="company-card__item">
+						<div class="front">
+						<a href="http://down.chinaz.com/"  target="_blank" rel="nofollow noreferrer">
+							<i class="iconfont icon-xiazai"></i>
+							<p>软件分发</p>
+						</a>
+						</div>
+
+					</div>
+					
+					<div class="company-card__item">
+						<div class="front">
+						<a href="http://api.chinaz.com/"  target="_blank" rel="nofollow noreferrer">
+							<i class="iconfont icon-jiekouguanli"></i>
+							<p>SEO接口</p>
+							</a>
+						</div>
+
+					</div>
+
+					<div class="company-card__item">
+						<div class="front">
+						<a href="http://seo.chinaz.com"  target="_blank" rel="nofollow noreferrer">
+							<i class="iconfont icon-zhongjieguanli"></i>
+							<p>SEO服务</p>
+							</a>
+						</div>
+
+					</div>
+
+					
+					<div class="company-card__item">
+						<div class="front">
+						<a href="https://zj.chinaz.com/"  target="_blank" rel="nofollow noreferrer">
+							<i class="iconfont icon-zhongjieguanli"></i>
+							<p>SEO中介</p>
+							</a>
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class="footer-bottom">
+		<div class="block-container">
+			<div class="block-inner__between">
+
+			<div class="cloumn-center">
+
+				<div class="friend-link">
+
+					<span id="friend-toggle">
+						友情链接<i class="iconfont icon-xiangxia"></i>
+					</span>
+					<a href="http://www.crsky.com"  rel="noopener noreferrer" target="_blank">非凡软件站</a>
+<a href="http://www.feiyu.com"  rel="noopener noreferrer" target="_blank">飞鱼科技</a>
+<a href="https://www.font.cn"  rel="noopener noreferrer" target="_blank">字体超市</a>
+<a href="http://www.cnzz.com/" rel="nofollow noreferrer" target="_blank">CNZZ统计</a>
+<a href="http://www.258.com"  rel="noopener noreferrer" target="_blank">258集团</a>
+<a href="http://www.yisu.com"  rel="noopener noreferrer" target="_blank">亿速云</a>
+<a href="http://tech.163.com" rel="nofollow noreferrer" target="_blank">网易科技</a>
+<a href="http://www.newhua.com/"  rel="noopener noreferrer" target="_blank"> 牛华网</a>
+<a href="http://www.it168.com"  rel="noopener noreferrer" target="_blank">IT168</a>
+<a href="http://www.leiphone.com"  rel="noopener noreferrer" target="_blank">雷锋网</a>
+<a href="http://www.mydrivers.com"  rel="noopener noreferrer" target="_blank">驱动之家</a>
+<a href="http://www.1ting.com"  rel="noopener noreferrer" target="_blank">一听音乐</a>
+<a href="http://www.8684.cn"  rel="noopener noreferrer" target="_blank" class="hide-line">公交查询</a>
+<a href="http://www.19lou.com/"  rel="noopener noreferrer" target="_blank">19楼</a>
+<a href="http://www.cnblogs.com"  rel="noopener noreferrer" target="_blank">博客园</a>
+<a href="http://www.ebrun.com"  rel="noopener noreferrer" target="_blank">亿邦动力</a>
+<a href="http://www.51cto.com"  rel="noopener noreferrer" target="_blank">51CTO</a>
+<a href="http://www.39yst.com"  rel="noopener noreferrer" target="_blank">三九养生堂</a>
+<a href="http://www.fmx.cn/"  rel="noopener noreferrer" target="_blank">凤鸣轩</a>
+<a href="http://www.uc.cn"  rel="noopener noreferrer" target="_blank">UC浏览器</a>
+<a href="http://www.qudong.com/"  rel="noopener noreferrer" target="_blank">驱动中国</a>
+<a href="http://www.ithome.com"  rel="noopener noreferrer" target="_blank">IT之家</a>
+<a href="http://www.cnmo.com"  rel="noopener noreferrer" target="_blank">手机中国</a>
+<a href="http://d.chinaz.com"  rel="noopener noreferrer" target="_blank">斗玩网</a>
+<a href="http://www.muzhiwan.com/"  rel="noopener noreferrer"  target="_blank">拇指玩</a>
+<a href="http://www.iheima.com/"   rel="noopener noreferrer" target="_blank" rel="nofollow noreferrer">i黑马</a>
+<a href="http://www.anqu.com"  rel="noopener noreferrer" target="_blank" class="hide-line">安趣网</a>
+<a href="http://www.shafa.com/"  rel="noopener noreferrer" target="_blank">沙发网</a>
+<a href="http://www.gucheng.com/"  rel="noopener noreferrer" target="_blank">股城网</a>
+<a href="http://www.4399.cn/"  rel="noopener noreferrer" target="_blank">4399手机游戏</a>
+<a href="http://www.xiaopi.com"  rel="noopener noreferrer" target="_blank">小皮游戏</a>
+<a href="http://www.wmzhe.com"  rel="noopener noreferrer" target="_blank">完美下载</a>
+<a href="http://www.tianyancha.com"  rel="noopener noreferrer" target="_blank">天眼查</a>
+<a href="https://www.8btc.com"  rel="noopener noreferrer" target="_blank">巴比特</a>
+<a href="http://www.chinaz.com/aboutus/link.html"  rel="noopener noreferrer" target="_blank">更多友链 》》</a>  <!--# 新版首页-2020 友情链接 #-->
+
+				</div>
+
+				<div class="site-link">
+					<p>版权所有 本站内容未经书面许可,禁止一切形式的转载。©CopyRight 2002- <span id="year">2019</span>
+						CHINAZ.COM Inc All Rights Reserved  </p>
+					<p>增值电信业务经营许可证: 闽B2-20120007号 -
+						<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35020302000061"
+							rel="nofollow noreferrer" target="_blank"><img
+								src="//img.chinaz.com/ghs.png" />闽公网安备 35020302000061号 </a>-
+						<a href="http://beian.miit.gov.cn/"
+							rel="nofollow noreferrer" target="_blank">闽ICP备08105208号</a> - 闽网文[2018]1428-083 </p>
+						<p>违法和不良信息举报邮箱：yeky@chinaz.com</p>
+					<div class="about_link"> 
+						<a target="_blank" rel="nofollow noreferrer" href="/aboutus/index.html">关于我们</a> -
+						<a target="_blank" rel="nofollow noreferrer" href="//ww.chinaz.com/aboutus/contact.php?from=news">联系我们</a>-
+						<a target="_blank" rel="nofollow noreferrer" href="/aboutus/ad.html">广告服务</a> -
+						<a target="_blank" rel="nofollow noreferrer" href="/aboutus/link.html">友情链接</a> -
+						<a target="_blank" rel="nofollow noreferrer" href="/aboutus/announce.html">版权声明</a> -
+						<a target="_blank" rel="nofollow noreferrer" href="/aboutus/join.html">人才招聘</a> -
+						<a target="_blank" rel="nofollow noreferrer" href="/aboutus/privacy.html">隐私政策</a> -
+						<a target="_blank" rel="nofollow noreferrer" href="/aboutus/contact.php">问题反馈</a> -
+						<a target="_blank" rel="nofollow noreferrer" href="//m.chinaz.com">手机版</a>
+					</div>
+				</div>
+
+				<div class="ext-link">
+					<a rel="nofollow noreferrer"
+						href="https://www.chinaz.com/go.shtml?url=https://www.12377.cn/" rel="nofollow noreferrer"target="_blank">
+						<span> <i class="iconfont icon-phone"></i>中国互联网违法和不良信息举报中心</span>
+					</a>
+					<a rel="nofollow noreferrer"
+						href="https://www.chinaz.com/go.shtml?url=http://v.pinpaibao.com.cn/authenticate/cert/?site=www.chinaz.com&at=official"
+						target="_blank">
+
+						<span> <i class="iconfont icon-Group"></i>官网验证通过</br>创宇信用信誉档案库</span>
+					</a>
+					<a href="https://www.chinaz.com/go.shtml?url=https://t.knet.cn/tsearch/detail?keyword=%E7%AB%99%E9%95%BF%E4%B9%8B%E5%AE%B6"
+						rel="nofollow noreferrer" target="_blank">
+						<span> <i class="iconfont icon-anquan1"></i>可信网站认证通过</br>中网可信网站身份验证</span>
+					</a>
+				</div>
+
+			</div>
+
+			<div class="cloumn-right">
+
+				<div class="fright">
+
+				<div class="fright-qrcode"> 
+					<img src="//img.chinaz.com/2020/img/comqrcode.jpg" class="lazy" webp="false"  alt="站长之家二维码">
+				</div>
+
+				<ul class="fright-subscribes">
+					<li><span><i class="iconfont icon-weixin1"></i>wwwchinaz</span></li>
+					<li><a rel="nofollow noreferrer" href="//weibo.com/chinaz" target="_blank"><i class="iconfont icon-weibo"></i>关注站长之家</a></li>
+					<li><a rel="nofollow noreferrer" href="//app.chinaz.com/?app=rss&controller=index&action=index" target="_blank"><i class="iconfont icon-RSS"></i>Rss 订阅中心</a></li>
+					<li><a rel="nofollow noreferrer" href="//www.chinaz.com/xml/sitemap.xml" target="_blank"><i class="iconfont icon-hangyeredian"></i>网站Sitemap</a></li>
+				</ul>
+
+			</div>
+
+
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+			 
+		
+	</div>
+	</div>
+	<script src="//img.chinaz.com/2020/js/jsLibrary.min.js?212122340"></script>
+	<script src="//img.chinaz.com/2020/js/index.min.js?443994"></script>
+	<script src="//my.chinaz.com/js/uc1.js"></script>
+	<script  src="//img.chinaz.com/2020/js/stat.min.js"></script>
+</body>
+</html>

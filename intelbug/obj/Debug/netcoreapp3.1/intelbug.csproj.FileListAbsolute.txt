@@ -1,0 +1,12 @@
+C:\Users\。。。\source\repos\intelbug\bin\Debug\netcoreapp3.1\intelbug.exe
+C:\Users\。。。\source\repos\intelbug\bin\Debug\netcoreapp3.1\intelbug.deps.json
+C:\Users\。。。\source\repos\intelbug\bin\Debug\netcoreapp3.1\intelbug.runtimeconfig.json
+C:\Users\。。。\source\repos\intelbug\bin\Debug\netcoreapp3.1\intelbug.runtimeconfig.dev.json
+C:\Users\。。。\source\repos\intelbug\bin\Debug\netcoreapp3.1\intelbug.dll
+C:\Users\。。。\source\repos\intelbug\bin\Debug\netcoreapp3.1\intelbug.pdb
+C:\Users\。。。\source\repos\intelbug\obj\Debug\netcoreapp3.1\intelbug.AssemblyInfoInputs.cache
+C:\Users\。。。\source\repos\intelbug\obj\Debug\netcoreapp3.1\intelbug.AssemblyInfo.cs
+C:\Users\。。。\source\repos\intelbug\obj\Debug\netcoreapp3.1\intelbug.csproj.CoreCompileInputs.cache
+C:\Users\。。。\source\repos\intelbug\obj\Debug\netcoreapp3.1\intelbug.dll
+C:\Users\。。。\source\repos\intelbug\obj\Debug\netcoreapp3.1\intelbug.pdb
+C:\Users\。。。\source\repos\intelbug\obj\Debug\netcoreapp3.1\intelbug.genruntimeconfig.cache
