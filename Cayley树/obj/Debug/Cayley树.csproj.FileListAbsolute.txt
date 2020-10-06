@@ -1,0 +1,10 @@
+C:\Users\。。。\source\repos\Cayley树\bin\Debug\Cayley树.exe.config
+C:\Users\。。。\source\repos\Cayley树\bin\Debug\Cayley树.exe
+C:\Users\。。。\source\repos\Cayley树\bin\Debug\Cayley树.pdb
+C:\Users\。。。\source\repos\Cayley树\obj\Debug\Cayley树.csprojAssemblyReference.cache
+C:\Users\。。。\source\repos\Cayley树\obj\Debug\Cayley树.Form1.resources
+C:\Users\。。。\source\repos\Cayley树\obj\Debug\Cayley树.Properties.Resources.resources
+C:\Users\。。。\source\repos\Cayley树\obj\Debug\Cayley树.csproj.GenerateResource.cache
+C:\Users\。。。\source\repos\Cayley树\obj\Debug\Cayley树.csproj.CoreCompileInputs.cache
+C:\Users\。。。\source\repos\Cayley树\obj\Debug\Cayley树.exe
+C:\Users\。。。\source\repos\Cayley树\obj\Debug\Cayley树.pdb
